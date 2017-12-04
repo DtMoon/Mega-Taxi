@@ -1,0 +1,831 @@
+Time,Temp,Weather,Wind,Humidity,Barometer,Visibility
+12:51 am,52 °F,Overcast.,6 mph,80%,"30.14 ""Hg",10 mi
+1:51 am,50 °F,Fog.,5 mph,93%,"30.11 ""Hg",6 mi
+2:51 am,50 °F,Fog.,6 mph,93%,"30.09 ""Hg",4 mi
+3:51 am,49 °F,Fog.,6 mph,93%,"30.06 ""Hg",3 mi
+4:51 am,49 °F,Fog.,5 mph,97%,"30.03 ""Hg",4 mi
+5:51 am,49 °F,Fog.,3 mph,97%,"30.02 ""Hg",5 mi
+6:51 am,50 °F,Fog.,3 mph,93%,"30.01 ""Hg",4 mi
+7:51 am,50 °F,Fog.,6 mph,96%,"30.01 ""Hg",5 mi
+8:51 am,51 °F,Fog.,3 mph,92%,"30.01 ""Hg",5 mi
+9:51 am,52 °F,Fog.,5 mph,89%,"30.00 ""Hg",5 mi
+10:51 am,55 °F,Haze.,5 mph,83%,"29.98 ""Hg",6 mi
+11:51 am,59 °F,Overcast.,6 mph,75%,"29.96 ""Hg",5 mi
+12:51 pm,65 °F,Mostly cloudy.,No wind,68%,"29.93 ""Hg",5 mi
+1:09 pm,65 °F,More clouds than sun.,3 mph,66%,"29.94 ""Hg",5 mi
+1:51 pm,68 °F,Overcast.,7 mph,61%,"29.88 ""Hg",6 mi
+2:51 pm,72 °F,Scattered clouds.,3 mph,64%,"29.85 ""Hg",7 mi
+3:51 pm,70 °F,Sunny.,7 mph,64%,"29.82 ""Hg",8 mi
+4:51 pm,67 °F,Passing clouds.,8 mph,66%,"29.78 ""Hg",8 mi
+5:51 pm,67 °F,Sunny.,6 mph,68%,"29.76 ""Hg",8 mi
+6:51 pm,67 °F,Sunny.,No wind,73%,"29.72 ""Hg",8 mi
+7:51 pm,70 °F,Passing clouds.,3 mph,71%,"29.72 ""Hg",9 mi
+8:51 pm,70 °F,Clear.,9 mph,68%,"29.71 ""Hg",10 mi
+9:51 pm,67 °F,Clear.,5 mph,76%,"29.71 ""Hg",9 mi
+10:51 pm,64 °F,Clear.,8 mph,84%,"29.67 ""Hg",8 mi
+11:51 pm,65 °F,Clear.,6 mph,85%,"29.64 ""Hg",8 mi
+12:51 am,66 °F,Clear.,6 mph,81%,"29.63 ""Hg",8 mi
+1:51 am,65 °F,Clear.,7 mph,85%,"29.61 ""Hg",8 mi
+2:51 am,66 °F,Clear.,6 mph,84%,"29.60 ""Hg",9 mi
+3:51 am,69 °F,Passing clouds.,6 mph,79%,"29.58 ""Hg",9 mi
+4:51 am,68 °F,Passing clouds.,N/A,84%,"29.57 ""Hg",10 mi
+5:20 am,69 °F,Passing clouds.,3 mph,81%,"29.61 ""Hg",10 mi
+5:51 am,68 °F,Mostly cloudy.,10 mph,84%,"29.58 ""Hg",10 mi
+6:27 am,68 °F,Broken clouds.,6 mph,87%,"29.61 ""Hg",9 mi
+6:51 am,69 °F,Scattered clouds.,10 mph,84%,"29.58 ""Hg",9 mi
+7:33 am,69 °F,Partly sunny.,10 mph,84%,"29.61 ""Hg",8 mi
+7:51 am,67 °F,Broken clouds.,No wind,90%,"29.58 ""Hg",8 mi
+8:51 am,69 °F,Sunny.,9 mph,73%,"29.58 ""Hg",10 mi
+9:51 am,71 °F,Passing clouds.,5 mph,68%,"29.57 ""Hg",10 mi
+10:21 am,71 °F,Partly sunny.,5 mph,66%,"29.60 ""Hg",10 mi
+10:38 am,71 °F,Mostly cloudy.,8 mph,55%,"29.60 ""Hg",10 mi
+10:51 am,72 °F,Partly sunny.,6 mph,49%,"29.57 ""Hg",10 mi
+11:51 am,74 °F,Partly sunny.,6 mph,45%,"29.57 ""Hg",10 mi
+12:51 pm,74 °F,Mostly cloudy.,3 mph,43%,"29.57 ""Hg",10 mi
+1:51 pm,72 °F,Mostly cloudy.,8 mph,44%,"29.57 ""Hg",9 mi
+2:51 pm,71 °F,Partly sunny.,10 mph,42%,"29.57 ""Hg",9 mi
+3:51 pm,74 °F,Scattered clouds.,7 mph,37%,"29.57 ""Hg",10 mi
+4:51 pm,73 °F,Scattered clouds.,12 mph,29%,"29.60 ""Hg",9 mi
+5:51 pm,70 °F,Sunny.,13 mph,28%,"29.64 ""Hg",10 mi
+6:51 pm,69 °F,Passing clouds.,7 mph,30%,"29.66 ""Hg",10 mi
+7:51 pm,68 °F,Partly sunny.,8 mph,32%,"29.68 ""Hg",10 mi
+8:51 pm,67 °F,Overcast.,9 mph,33%,"29.71 ""Hg",10 mi
+9:51 pm,66 °F,Overcast.,13 mph,31%,"29.75 ""Hg",10 mi
+10:51 pm,64 °F,Overcast.,7 mph,33%,"29.77 ""Hg",10 mi
+11:51 pm,63 °F,Overcast.,8 mph,35%,"29.77 ""Hg",10 mi
+12:51 am,63 °F,Overcast.,9 mph,35%,"29.78 ""Hg",10 mi
+1:51 am,61 °F,Overcast.,6 mph,41%,"29.78 ""Hg",10 mi
+2:51 am,61 °F,Overcast.,N/A,41%,"29.78 ""Hg",10 mi
+3:51 am,60 °F,Mostly cloudy.,N/A,42%,"29.79 ""Hg",10 mi
+4:51 am,60 °F,Overcast.,8 mph,42%,"29.80 ""Hg",10 mi
+5:51 am,59 °F,Passing clouds.,8 mph,44%,"29.81 ""Hg",10 mi
+6:51 am,58 °F,Passing clouds.,7 mph,46%,"29.84 ""Hg",10 mi
+7:51 am,59 °F,Sunny.,8 mph,44%,"29.84 ""Hg",10 mi
+8:51 am,60 °F,Sunny.,13 mph,44%,"29.85 ""Hg",10 mi
+9:51 am,59 °F,Scattered clouds.,8 mph,46%,"29.88 ""Hg",10 mi
+10:51 am,59 °F,Overcast.,9 mph,39%,"29.88 ""Hg",10 mi
+11:51 am,62 °F,Partly sunny.,10 mph,32%,"29.89 ""Hg",10 mi
+12:51 pm,60 °F,Overcast.,10 mph,36%,"29.92 ""Hg",10 mi
+1:51 pm,62 °F,Partly sunny.,13 mph,37%,"29.93 ""Hg",10 mi
+2:51 pm,63 °F,Partly sunny.,N/A,35%,"29.93 ""Hg",10 mi
+3:51 pm,65 °F,Scattered clouds.,12 mph,32%,"29.94 ""Hg",10 mi
+4:51 pm,63 °F,Sunny.,10 mph,34%,"29.96 ""Hg",10 mi
+5:51 pm,62 °F,Sunny.,13 mph,31%,"29.98 ""Hg",10 mi
+6:51 pm,60 °F,Sunny.,6 mph,32%,"30.02 ""Hg",10 mi
+7:51 pm,58 °F,Sunny.,10 mph,35%,"30.03 ""Hg",10 mi
+8:51 pm,58 °F,Clear.,8 mph,35%,"30.12 ""Hg",10 mi
+9:51 pm,57 °F,Clear.,3 mph,34%,"30.17 ""Hg",10 mi
+10:51 pm,55 °F,Clear.,5 mph,39%,"30.19 ""Hg",10 mi
+11:51 pm,53 °F,Clear.,No wind,43%,"30.20 ""Hg",10 mi
+12:51 am,52 °F,Clear.,6 mph,45%,"30.20 ""Hg",10 mi
+1:51 am,52 °F,Clear.,6 mph,45%,"30.21 ""Hg",10 mi
+2:51 am,50 °F,Clear.,3 mph,48%,"30.22 ""Hg",10 mi
+3:51 am,50 °F,Clear.,No wind,50%,"30.22 ""Hg",10 mi
+4:51 am,49 °F,Clear.,3 mph,57%,"30.22 ""Hg",10 mi
+5:51 am,48 °F,Sunny.,7 mph,61%,"30.23 ""Hg",10 mi
+6:51 am,50 °F,Sunny.,5 mph,57%,"30.25 ""Hg",10 mi
+7:51 am,52 °F,Sunny.,9 mph,47%,"30.27 ""Hg",10 mi
+8:51 am,54 °F,Sunny.,7 mph,43%,"30.29 ""Hg",10 mi
+9:51 am,56 °F,Sunny.,6 mph,42%,"30.28 ""Hg",10 mi
+10:51 am,59 °F,Sunny.,3 mph,38%,"30.27 ""Hg",10 mi
+11:51 am,62 °F,Partly sunny.,6 mph,31%,"30.26 ""Hg",10 mi
+12:51 pm,61 °F,Sunny.,9 mph,29%,"30.25 ""Hg",10 mi
+1:51 pm,63 °F,Sunny.,5 mph,28%,"30.23 ""Hg",10 mi
+2:51 pm,60 °F,Sunny.,3 mph,31%,"30.22 ""Hg",10 mi
+3:51 pm,60 °F,Sunny.,8 mph,33%,"30.21 ""Hg",10 mi
+4:51 pm,57 °F,Sunny.,3 mph,41%,"30.20 ""Hg",10 mi
+5:51 pm,55 °F,Sunny.,6 mph,53%,"30.20 ""Hg",10 mi
+6:51 pm,53 °F,Sunny.,7 mph,59%,"30.19 ""Hg",10 mi
+7:51 pm,53 °F,Sunny.,N/A,59%,"30.18 ""Hg",10 mi
+8:51 pm,53 °F,Clear.,6 mph,61%,"30.16 ""Hg",10 mi
+9:51 pm,53 °F,Clear.,5 mph,61%,"30.16 ""Hg",10 mi
+10:51 pm,52 °F,Passing clouds.,N/A,64%,"30.12 ""Hg",10 mi
+11:51 pm,52 °F,Clear.,5 mph,69%,"30.11 ""Hg",10 mi
+12:51 am,52 °F,Clear.,6 mph,72%,"30.10 ""Hg",10 mi
+1:51 am,53 °F,Mostly cloudy.,7 mph,72%,"30.08 ""Hg",10 mi
+3:01 am,52 °F,Mostly cloudy.,7 mph,77%,"30.06 ""Hg",10 mi
+3:51 am,52 °F,Overcast.,7 mph,80%,"30.01 ""Hg",10 mi
+4:12 am,51 °F,Overcast.,8 mph,86%,"30.02 ""Hg",10 mi
+4:51 am,51 °F,Overcast.,5 mph,86%,"29.99 ""Hg",10 mi
+5:51 am,52 °F,Mostly cloudy.,7 mph,86%,"29.96 ""Hg",10 mi
+6:51 am,52 °F,Light rain. Overcast.,6 mph,89%,"29.93 ""Hg",7 mi
+7:51 am,52 °F,Light rain. Mostly cloudy.,8 mph,93%,"29.91 ""Hg",7 mi
+8:51 am,53 °F,Mostly cloudy.,6 mph,93%,"29.87 ""Hg",8 mi
+9:51 am,54 °F,Light rain. Fog.,8 mph,93%,"29.81 ""Hg",6 mi
+10:16 am,54 °F,Light rain. Fog.,12 mph,97%,"29.82 ""Hg",2 mi
+10:34 am,53 °F,Light rain. Fog.,9 mph,96%,"29.81 ""Hg",4 mi
+10:51 am,53 °F,Rain. Fog.,12 mph,96%,"29.78 ""Hg",3 mi
+10:55 am,53 °F,Heavy rain. Fog.,12 mph,96%,"29.79 ""Hg",2 mi
+11:51 am,53 °F,Heavy rain. Fog.,17 mph,100%,"29.69 ""Hg",0 mi
+12:51 pm,53 °F,Heavy rain. Fog.,8 mph,96%,"29.67 ""Hg",1 mi
+1:11 pm,52 °F,Heavy rain. Fog.,7 mph,100%,"29.72 ""Hg",0 mi
+1:51 pm,52 °F,Heavy rain. Fog.,9 mph,100%,"29.67 ""Hg",1 mi
+3:09 pm,55 °F,Mostly cloudy.,7 mph,100%,"29.60 ""Hg",8 mi
+3:51 pm,57 °F,Fog.,5 mph,100%,"29.61 ""Hg",5 mi
+4:11 pm,57 °F,Light rain. Fog.,No wind,100%,"29.65 ""Hg",2 mi
+4:51 pm,58 °F,Fog.,5 mph,97%,"29.59 ""Hg",3 mi
+5:08 pm,58 °F,Fog.,No wind,97%,"29.63 ""Hg",2 mi
+5:51 pm,58 °F,Fog.,8 mph,100%,"29.57 ""Hg",2 mi
+6:15 pm,58 °F,Fog.,6 mph,97%,"29.59 ""Hg",1 mi
+6:51 pm,59 °F,Fog.,3 mph,96%,"29.58 ""Hg",1 mi
+7:00 pm,59 °F,Fog.,3 mph,96%,"29.60 ""Hg",1 mi
+7:21 pm,59 °F,Fog.,N/A,100%,"29.61 ""Hg",5 mi
+7:51 pm,59 °F,Fog.,5 mph,96%,"29.57 ""Hg",5 mi
+8:51 pm,59 °F,Fog.,No wind,96%,"29.55 ""Hg",5 mi
+9:51 pm,59 °F,Fog.,3 mph,96%,"29.54 ""Hg",6 mi
+10:26 pm,59 °F,Fog.,6 mph,96%,"29.56 ""Hg",2 mi
+10:51 pm,58 °F,Fog.,5 mph,100%,"29.54 ""Hg",4 mi
+11:51 pm,58 °F,Fog.,6 mph,97%,"29.52 ""Hg",4 mi
+12:17 am,57 °F,Fog.,8 mph,100%,"29.54 ""Hg",1 mi
+12:51 am,57 °F,Fog.,7 mph,100%,"29.50 ""Hg",1 mi
+2:02 am,57 °F,Rain. Fog.,No wind,100%,"29.50 ""Hg",2 mi
+2:10 am,57 °F,Light rain. Fog.,5 mph,100%,"29.49 ""Hg",3 mi
+2:32 am,58 °F,Fog.,3 mph,100%,"29.48 ""Hg",2 mi
+3:00 am,59 °F,Light rain. Fog.,12 mph,100%,"29.46 ""Hg",3 mi
+3:17 am,59 °F,Fog.,N/A,100%,"29.45 ""Hg",2 mi
+3:51 am,59 °F,Fog.,8 mph,100%,"29.42 ""Hg",3 mi
+4:51 am,59 °F,Fog.,10 mph,100%,"29.40 ""Hg",2 mi
+5:51 am,58 °F,Fog.,9 mph,100%,"29.39 ""Hg",3 mi
+6:34 am,57 °F,Fog.,6 mph,100%,"29.43 ""Hg",2 mi
+6:51 am,57 °F,Fog.,3 mph,100%,"29.40 ""Hg",2 mi
+7:51 am,58 °F,Fog.,9 mph,97%,"29.41 ""Hg",2 mi
+8:31 am,58 °F,Fog.,6 mph,97%,"29.43 ""Hg",3 mi
+8:51 am,59 °F,Fog.,8 mph,96%,"29.40 ""Hg",4 mi
+8:59 am,59 °F,Fog.,5 mph,96%,"29.43 ""Hg",4 mi
+9:51 am,58 °F,Sunny.,6 mph,87%,"29.40 ""Hg",7 mi
+10:51 am,63 °F,Passing clouds.,10 mph,73%,"29.41 ""Hg",8 mi
+11:51 am,61 °F,Partly sunny.,6 mph,72%,"29.40 ""Hg",9 mi
+12:51 pm,65 °F,Passing clouds.,N/A,66%,"29.40 ""Hg",9 mi
+1:51 pm,62 °F,Cloudy.,6 mph,73%,"29.40 ""Hg",8 mi
+2:51 pm,62 °F,More clouds than sun.,No wind,73%,"29.40 ""Hg",8 mi
+3:51 pm,60 °F,Mostly cloudy.,6 mph,75%,"29.39 ""Hg",8 mi
+4:51 pm,61 °F,Overcast.,N/A,75%,"29.39 ""Hg",8 mi
+5:51 pm,63 °F,Broken clouds.,5 mph,73%,"29.37 ""Hg",8 mi
+6:51 pm,62 °F,Overcast.,5 mph,73%,"29.37 ""Hg",8 mi
+7:51 pm,60 °F,Broken clouds.,3 mph,78%,"29.38 ""Hg",8 mi
+8:51 pm,57 °F,Partly cloudy.,3 mph,74%,"29.42 ""Hg",10 mi
+9:51 pm,56 °F,Mostly cloudy.,6 mph,72%,"29.46 ""Hg",10 mi
+10:51 pm,54 °F,Passing clouds.,N/A,77%,"29.48 ""Hg",10 mi
+11:51 pm,53 °F,Mostly cloudy.,7 mph,74%,"29.48 ""Hg",10 mi
+12:51 am,52 °F,Partly cloudy.,N/A,77%,"29.49 ""Hg",10 mi
+1:51 am,53 °F,Mostly cloudy.,8 mph,74%,"29.51 ""Hg",10 mi
+2:22 am,53 °F,Mostly cloudy.,5 mph,77%,"29.54 ""Hg",10 mi
+2:51 am,53 °F,Mostly cloudy.,N/A,72%,"29.52 ""Hg",10 mi
+3:51 am,53 °F,Mostly cloudy.,6 mph,72%,"29.54 ""Hg",10 mi
+4:16 am,52 °F,Mostly cloudy.,7 mph,72%,"29.57 ""Hg",10 mi
+4:51 am,52 °F,Overcast.,6 mph,69%,"29.55 ""Hg",10 mi
+5:51 am,51 °F,Partly sunny.,N/A,71%,"29.57 ""Hg",10 mi
+6:51 am,50 °F,Sunny.,N/A,71%,"29.60 ""Hg",10 mi
+7:51 am,50 °F,Scattered clouds.,5 mph,71%,"29.62 ""Hg",10 mi
+8:13 am,51 °F,Partly sunny.,7 mph,69%,"29.65 ""Hg",10 mi
+8:51 am,53 °F,Partly sunny.,N/A,66%,"29.63 ""Hg",10 mi
+9:04 am,53 °F,Cloudy.,6 mph,66%,"29.66 ""Hg",10 mi
+9:51 am,53 °F,More clouds than sun.,No wind,61%,"29.64 ""Hg",10 mi
+10:51 am,54 °F,More clouds than sun.,3 mph,59%,"29.65 ""Hg",10 mi
+11:51 am,52 °F,Mostly cloudy.,N/A,61%,"29.65 ""Hg",10 mi
+12:51 pm,53 °F,Mostly cloudy.,3 mph,61%,"29.65 ""Hg",10 mi
+1:51 pm,53 °F,Overcast.,N/A,64%,"29.65 ""Hg",10 mi
+2:51 pm,52 °F,Light rain. Mostly cloudy.,No wind,75%,"29.65 ""Hg",7 mi
+3:51 pm,51 °F,Mostly cloudy.,6 mph,71%,"29.66 ""Hg",9 mi
+4:51 pm,49 °F,Light rain. Cloudy.,7 mph,84%,"29.67 ""Hg",6 mi
+5:51 pm,50 °F,Overcast.,10 mph,71%,"29.69 ""Hg",10 mi
+6:51 pm,50 °F,Cloudy.,6 mph,66%,"29.71 ""Hg",10 mi
+7:51 pm,50 °F,Cloudy.,6 mph,66%,"29.73 ""Hg",10 mi
+8:51 pm,49 °F,Mostly cloudy.,9 mph,69%,"29.77 ""Hg",10 mi
+9:51 pm,49 °F,Overcast.,7 mph,66%,"29.79 ""Hg",10 mi
+10:51 pm,49 °F,Overcast.,7 mph,66%,"29.80 ""Hg",10 mi
+11:51 pm,48 °F,Overcast.,N/A,66%,"29.78 ""Hg",10 mi
+12:51 am,47 °F,Passing clouds.,6 mph,69%,"29.80 ""Hg",10 mi
+1:51 am,47 °F,Clear.,7 mph,69%,"29.80 ""Hg",10 mi
+2:51 am,46 °F,Clear.,N/A,68%,"29.82 ""Hg",10 mi
+3:51 am,45 °F,Passing clouds.,N/A,74%,"29.83 ""Hg",10 mi
+4:51 am,45 °F,Passing clouds.,7 mph,68%,"29.82 ""Hg",10 mi
+5:51 am,45 °F,Passing clouds.,8 mph,68%,"29.84 ""Hg",10 mi
+6:51 am,45 °F,Sunny.,5 mph,65%,"29.86 ""Hg",10 mi
+7:51 am,46 °F,Sunny.,7 mph,63%,"29.87 ""Hg",10 mi
+8:51 am,47 °F,Sunny.,6 mph,52%,"29.88 ""Hg",10 mi
+9:51 am,50 °F,Sunny.,7 mph,46%,"29.88 ""Hg",10 mi
+10:51 am,51 °F,Partly sunny.,8 mph,41%,"29.89 ""Hg",10 mi
+11:51 am,52 °F,Partly sunny.,N/A,41%,"29.89 ""Hg",10 mi
+12:51 pm,55 °F,Partly sunny.,8 mph,37%,"29.87 ""Hg",10 mi
+1:51 pm,55 °F,Mostly cloudy.,N/A,37%,"29.86 ""Hg",10 mi
+2:51 pm,56 °F,Partly sunny.,7 mph,36%,"29.85 ""Hg",10 mi
+3:51 pm,56 °F,Overcast.,3 mph,32%,"29.86 ""Hg",10 mi
+4:51 pm,57 °F,Overcast.,9 mph,33%,"29.87 ""Hg",10 mi
+5:51 pm,57 °F,Partly sunny.,7 mph,34%,"29.87 ""Hg",10 mi
+6:51 pm,56 °F,Passing clouds.,6 mph,34%,"29.88 ""Hg",10 mi
+7:51 pm,54 °F,Partly sunny.,5 mph,40%,"29.89 ""Hg",10 mi
+8:51 pm,54 °F,Passing clouds.,No wind,41%,"29.90 ""Hg",10 mi
+9:51 pm,53 °F,Overcast.,3 mph,45%,"29.91 ""Hg",10 mi
+10:51 pm,54 °F,Mostly cloudy.,5 mph,41%,"29.91 ""Hg",10 mi
+11:51 pm,53 °F,Overcast.,6 mph,45%,"29.92 ""Hg",10 mi
+12:51 am,51 °F,Overcast.,6 mph,54%,"29.92 ""Hg",10 mi
+1:51 am,50 °F,Overcast.,6 mph,61%,"29.91 ""Hg",10 mi
+2:51 am,48 °F,Clear.,9 mph,61%,"29.92 ""Hg",10 mi
+3:51 am,47 °F,Clear.,7 mph,64%,"29.92 ""Hg",10 mi
+4:51 am,47 °F,Clear.,8 mph,64%,"29.93 ""Hg",10 mi
+5:29 am,47 °F,Passing clouds.,6 mph,64%,"29.96 ""Hg",10 mi
+5:51 am,47 °F,Scattered clouds.,6 mph,64%,"29.94 ""Hg",10 mi
+6:51 am,48 °F,Passing clouds.,9 mph,61%,"29.95 ""Hg",10 mi
+7:51 am,49 °F,Sunny.,No wind,61%,"29.96 ""Hg",10 mi
+8:51 am,51 °F,Sunny.,5 mph,59%,"29.97 ""Hg",10 mi
+9:51 am,52 °F,Sunny.,3 mph,55%,"29.98 ""Hg",10 mi
+10:51 am,54 °F,Passing clouds.,No wind,49%,"29.97 ""Hg",10 mi
+11:51 am,57 °F,Partly sunny.,N/A,39%,"29.96 ""Hg",10 mi
+12:51 pm,59 °F,Passing clouds.,7 mph,31%,"29.95 ""Hg",10 mi
+1:51 pm,61 °F,Passing clouds.,8 mph,25%,"29.95 ""Hg",10 mi
+2:51 pm,58 °F,Partly sunny.,No wind,28%,"29.94 ""Hg",10 mi
+3:51 pm,60 °F,Overcast.,7 mph,33%,"29.93 ""Hg",10 mi
+4:51 pm,58 °F,Partly sunny.,No wind,36%,"29.93 ""Hg",10 mi
+5:51 pm,58 °F,Overcast.,6 mph,38%,"29.94 ""Hg",10 mi
+6:51 pm,57 °F,Overcast.,No wind,39%,"29.96 ""Hg",10 mi
+7:51 pm,53 °F,Sunny.,6 mph,66%,"29.98 ""Hg",10 mi
+8:51 pm,52 °F,Clear.,5 mph,69%,"30.00 ""Hg",10 mi
+9:51 pm,52 °F,Clear.,No wind,59%,"30.00 ""Hg",10 mi
+10:51 pm,53 °F,Clear.,5 mph,55%,"29.99 ""Hg",10 mi
+11:51 pm,52 °F,Clear.,No wind,57%,"29.98 ""Hg",10 mi
+12:51 am,52 °F,Clear.,6 mph,61%,"29.98 ""Hg",10 mi
+1:51 am,51 °F,Passing clouds.,3 mph,66%,"29.99 ""Hg",10 mi
+2:51 am,50 °F,Overcast.,3 mph,71%,"29.99 ""Hg",10 mi
+3:51 am,51 °F,Overcast.,3 mph,71%,"29.99 ""Hg",10 mi
+4:51 am,50 °F,Overcast.,6 mph,68%,"29.98 ""Hg",10 mi
+5:51 am,50 °F,Overcast.,No wind,61%,"30.00 ""Hg",10 mi
+6:51 am,51 °F,Overcast.,No wind,59%,"30.02 ""Hg",10 mi
+7:51 am,52 °F,Overcast.,5 mph,55%,"30.03 ""Hg",10 mi
+8:51 am,54 °F,Scattered clouds.,No wind,53%,"30.03 ""Hg",10 mi
+9:51 am,58 °F,Scattered clouds.,No wind,44%,"30.02 ""Hg",10 mi
+10:51 am,59 °F,Sunny.,3 mph,46%,"30.02 ""Hg",10 mi
+11:51 am,66 °F,Sunny.,No wind,34%,"30.01 ""Hg",10 mi
+12:51 pm,61 °F,Partly sunny.,6 mph,39%,"29.99 ""Hg",10 mi
+1:51 pm,61 °F,Partly sunny.,6 mph,39%,"29.99 ""Hg",10 mi
+2:51 pm,63 °F,Sunny.,7 mph,38%,"29.98 ""Hg",10 mi
+3:51 pm,63 °F,Sunny.,7 mph,37%,"29.98 ""Hg",10 mi
+4:51 pm,66 °F,Sunny.,6 mph,33%,"29.99 ""Hg",10 mi
+2:51 pm,61 °F,Sunny.,6 mph,38%,"29.98 ""Hg",10 mi
+3:51 pm,61 °F,Sunny.,6 mph,38%,"29.98 ""Hg",10 mi
+4:51 pm,59 °F,Sunny.,6 mph,49%,"29.98 ""Hg",10 mi
+5:51 pm,57 °F,Sunny.,3 mph,51%,"29.99 ""Hg",10 mi
+6:51 pm,56 °F,Sunny.,No wind,55%,"30.00 ""Hg",10 mi
+7:51 pm,54 °F,Sunny.,7 mph,57%,"30.02 ""Hg",10 mi
+8:51 pm,53 °F,Clear.,5 mph,64%,"30.03 ""Hg",10 mi
+9:51 pm,52 °F,Clear.,3 mph,66%,"30.03 ""Hg",10 mi
+10:51 pm,51 °F,Clear.,No wind,69%,"30.04 ""Hg",10 mi
+11:51 pm,52 °F,Clear.,3 mph,69%,"30.05 ""Hg",10 mi
+12:51 am,51 °F,Clear.,No wind,66%,"30.06 ""Hg",10 mi
+1:51 am,50 °F,Clear.,5 mph,74%,"30.06 ""Hg",10 mi
+2:51 am,51 °F,Clear.,6 mph,74%,"30.04 ""Hg",10 mi
+3:51 am,49 °F,Clear.,3 mph,80%,"30.04 ""Hg",10 mi
+4:51 am,48 °F,Clear.,No wind,83%,"30.04 ""Hg",10 mi
+5:51 am,48 °F,Sunny.,No wind,83%,"30.05 ""Hg",10 mi
+6:51 am,51 °F,Passing clouds.,No wind,80%,"30.07 ""Hg",10 mi
+7:31 am,53 °F,Partly sunny.,6 mph,72%,"30.09 ""Hg",10 mi
+7:51 am,53 °F,Partly sunny.,5 mph,72%,"30.07 ""Hg",10 mi
+8:21 am,54 °F,Scattered clouds.,5 mph,64%,"30.10 ""Hg",10 mi
+8:51 am,55 °F,Passing clouds.,7 mph,64%,"30.07 ""Hg",10 mi
+9:51 am,56 °F,Overcast.,6 mph,60%,"30.07 ""Hg",10 mi
+10:51 am,58 °F,Passing clouds.,8 mph,58%,"30.06 ""Hg",10 mi
+11:51 am,60 °F,Passing clouds.,5 mph,52%,"30.05 ""Hg",10 mi
+12:51 pm,62 °F,Passing clouds.,7 mph,46%,"30.04 ""Hg",10 mi
+1:51 pm,61 °F,Broken clouds.,5 mph,54%,"30.03 ""Hg",10 mi
+2:51 pm,59 °F,Scattered clouds.,3 mph,54%,"30.02 ""Hg",10 mi
+3:51 pm,57 °F,Sunny.,9 mph,55%,"30.03 ""Hg",10 mi
+4:51 pm,57 °F,Sunny.,3 mph,58%,"30.03 ""Hg",10 mi
+5:51 pm,56 °F,Sunny.,6 mph,58%,"30.03 ""Hg",10 mi
+6:51 pm,54 °F,Sunny.,3 mph,62%,"30.03 ""Hg",10 mi
+7:51 pm,54 °F,Sunny.,N/A,62%,"30.03 ""Hg",10 mi
+8:51 pm,53 °F,Clear.,3 mph,66%,"30.02 ""Hg",10 mi
+9:51 pm,53 °F,Clear.,No wind,72%,"30.02 ""Hg",10 mi
+10:51 pm,53 °F,Mostly cloudy.,5 mph,72%,"30.02 ""Hg",10 mi
+11:02 pm,53 °F,Mostly cloudy.,8 mph,72%,"30.05 ""Hg",10 mi
+11:51 pm,53 °F,Overcast.,No wind,74%,"30.01 ""Hg",10 mi
+12:51 am,53 °F,Overcast.,6 mph,74%,"30.00 ""Hg",10 mi
+1:51 am,53 °F,Overcast.,7 mph,74%,"29.98 ""Hg",10 mi
+2:51 am,52 °F,Overcast.,8 mph,77%,"29.97 ""Hg",10 mi
+3:51 am,51 °F,Overcast.,5 mph,77%,"29.96 ""Hg",10 mi
+4:51 am,50 °F,Light rain. Mostly cloudy.,6 mph,86%,"29.95 ""Hg",8 mi
+5:51 am,49 °F,Light rain. Overcast.,3 mph,93%,"29.94 ""Hg",9 mi
+6:51 am,50 °F,Light rain. Fog.,No wind,93%,"29.93 ""Hg",5 mi
+7:23 am,49 °F,Light rain. Fog.,5 mph,97%,"29.96 ""Hg",6 mi
+7:51 am,49 °F,Light rain. Fog.,9 mph,97%,"29.93 ""Hg",6 mi
+8:51 am,50 °F,Light rain. Fog.,6 mph,93%,"29.93 ""Hg",6 mi
+9:51 am,50 °F,Light rain. Fog.,8 mph,93%,"29.92 ""Hg",4 mi
+10:51 am,50 °F,Light rain. Fog.,9 mph,96%,"29.90 ""Hg",4 mi
+11:51 am,50 °F,Light rain. Fog.,7 mph,96%,"29.89 ""Hg",4 mi
+12:51 pm,51 °F,Light rain. Fog.,7 mph,96%,"29.88 ""Hg",4 mi
+1:31 pm,51 °F,Light rain. Fog.,8 mph,92%,"29.89 ""Hg",3 mi
+1:51 pm,51 °F,Light rain. Fog.,9 mph,96%,"29.85 ""Hg",4 mi
+2:11 pm,50 °F,Rain. Fog.,13 mph,96%,"29.88 ""Hg",2 mi
+2:34 pm,50 °F,Rain. Fog.,10 mph,96%,"29.87 ""Hg",2 mi
+2:51 pm,50 °F,Rain. Fog.,6 mph,96%,"29.84 ""Hg",2 mi
+3:51 pm,50 °F,Rain. Fog.,10 mph,93%,"29.83 ""Hg",2 mi
+4:04 pm,50 °F,Rain. Fog.,8 mph,93%,"29.85 ""Hg",2 mi
+4:14 pm,50 °F,Rain. Fog.,12 mph,93%,"29.85 ""Hg",2 mi
+4:36 pm,50 °F,Rain. Fog.,16 mph,93%,"29.84 ""Hg",2 mi
+4:51 pm,50 °F,Rain. Fog.,12 mph,93%,"29.82 ""Hg",2 mi
+5:36 pm,48 °F,Rain. Fog.,14 mph,93%,"29.85 ""Hg",2 mi
+5:51 pm,47 °F,Rain. Fog.,13 mph,93%,"29.81 ""Hg",2 mi
+7:01 pm,47 °F,Light rain. Fog.,14 mph,93%,"29.82 ""Hg",3 mi
+7:09 pm,47 °F,Light rain. Fog.,13 mph,93%,"29.83 ""Hg",2 mi
+7:51 pm,46 °F,Light rain. Fog.,12 mph,93%,"29.80 ""Hg",2 mi
+8:51 pm,45 °F,Rain. Fog.,7 mph,97%,"29.80 ""Hg",3 mi
+9:37 pm,46 °F,Heavy rain. Fog.,10 mph,93%,"29.82 ""Hg",2 mi
+9:51 pm,46 °F,Rain. Fog.,7 mph,96%,"29.80 ""Hg",2 mi
+10:11 pm,46 °F,Light rain. Fog.,8 mph,93%,"29.82 ""Hg",3 mi
+10:51 pm,46 °F,Light rain. Fog.,9 mph,93%,"29.79 ""Hg",4 mi
+11:51 pm,46 °F,Light rain. Mostly cloudy.,7 mph,93%,"29.76 ""Hg",7 mi
+12:51 am,46 °F,Mostly cloudy.,8 mph,93%,"29.75 ""Hg",10 mi
+1:51 am,46 °F,Mostly cloudy.,N/A,93%,"29.72 ""Hg",10 mi
+2:19 am,46 °F,Low clouds.,5 mph,93%,"29.74 ""Hg",10 mi
+2:51 am,46 °F,Overcast.,8 mph,93%,"29.71 ""Hg",10 mi
+3:51 am,46 °F,Overcast.,3 mph,93%,"29.71 ""Hg",10 mi
+4:19 am,46 °F,Partly cloudy.,3 mph,93%,"29.73 ""Hg",10 mi
+4:51 am,46 °F,Overcast.,6 mph,93%,"29.71 ""Hg",10 mi
+5:13 am,46 °F,Low clouds.,No wind,96%,"29.73 ""Hg",10 mi
+5:51 am,46 °F,Partly sunny.,No wind,93%,"29.71 ""Hg",10 mi
+6:24 am,46 °F,Partly sunny.,5 mph,93%,"29.75 ""Hg",10 mi
+6:51 am,46 °F,Sunny.,5 mph,93%,"29.72 ""Hg",10 mi
+7:51 am,48 °F,Passing clouds.,3 mph,86%,"29.72 ""Hg",10 mi
+8:51 am,51 °F,Scattered clouds.,6 mph,77%,"29.72 ""Hg",10 mi
+9:51 am,53 °F,Passing clouds.,7 mph,72%,"29.70 ""Hg",10 mi
+10:51 am,57 °F,Passing clouds.,8 mph,64%,"29.68 ""Hg",10 mi
+11:51 am,61 °F,Partly sunny.,5 mph,58%,"29.67 ""Hg",10 mi
+12:51 pm,64 °F,Broken clouds.,7 mph,52%,"29.64 ""Hg",10 mi
+1:51 pm,64 °F,Scattered clouds.,No wind,50%,"29.60 ""Hg",10 mi
+2:51 pm,65 °F,More clouds than sun.,5 mph,47%,"29.59 ""Hg",10 mi
+3:51 pm,65 °F,Scattered clouds.,3 mph,45%,"29.58 ""Hg",10 mi
+4:51 pm,65 °F,Broken clouds.,6 mph,47%,"29.57 ""Hg",10 mi
+5:14 pm,55 °F,Rain. Cloudy.,6 mph,77%,"29.60 ""Hg",4 mi
+5:51 pm,61 °F,Partly sunny.,5 mph,67%,"29.59 ""Hg",10 mi
+6:51 pm,62 °F,Sunny.,6 mph,52%,"29.58 ""Hg",10 mi
+7:51 pm,61 °F,Partly sunny.,5 mph,52%,"29.57 ""Hg",10 mi
+8:51 pm,61 °F,Overcast.,N/A,54%,"29.59 ""Hg",10 mi
+9:51 pm,58 °F,Passing clouds.,9 mph,51%,"29.62 ""Hg",10 mi
+10:51 pm,56 °F,Passing clouds.,12 mph,55%,"29.63 ""Hg",10 mi
+11:51 pm,54 °F,Passing clouds.,5 mph,59%,"29.63 ""Hg",10 mi
+12:51 am,53 °F,Clear.,5 mph,64%,"29.64 ""Hg",10 mi
+1:51 am,53 °F,Clear.,9 mph,64%,"29.64 ""Hg",10 mi
+2:51 am,53 °F,Passing clouds.,7 mph,66%,"29.63 ""Hg",10 mi
+3:51 am,54 °F,Clear.,10 mph,64%,"29.63 ""Hg",10 mi
+4:51 am,54 °F,Passing clouds.,7 mph,67%,"29.63 ""Hg",10 mi
+5:51 am,55 °F,Mostly cloudy.,7 mph,64%,"29.65 ""Hg",10 mi
+6:51 am,56 °F,Mostly cloudy.,9 mph,65%,"29.67 ""Hg",10 mi
+7:51 am,56 °F,Overcast.,9 mph,62%,"29.69 ""Hg",10 mi
+8:51 am,58 °F,Partly sunny.,10 mph,60%,"29.71 ""Hg",10 mi
+9:51 am,58 °F,Overcast.,14 mph,54%,"29.71 ""Hg",10 mi
+10:51 am,59 °F,Mostly cloudy.,7 mph,51%,"29.73 ""Hg",10 mi
+11:51 am,61 °F,Partly sunny.,10 mph,48%,"29.73 ""Hg",10 mi
+12:51 pm,63 °F,Broken clouds.,8 mph,47%,"29.73 ""Hg",10 mi
+1:51 pm,63 °F,Partly sunny.,10 mph,47%,"29.74 ""Hg",10 mi
+2:51 pm,64 °F,Partly sunny.,13 mph,45%,"29.74 ""Hg",10 mi
+3:51 pm,66 °F,Scattered clouds.,6 mph,39%,"29.74 ""Hg",10 mi
+4:51 pm,67 °F,Passing clouds.,12 mph,39%,"29.75 ""Hg",10 mi
+5:51 pm,67 °F,Passing clouds.,6 mph,37%,"29.77 ""Hg",10 mi
+6:51 pm,66 °F,Sunny.,15 mph,39%,"29.80 ""Hg",10 mi
+7:51 pm,65 °F,Sunny.,12 mph,42%,"29.83 ""Hg",10 mi
+8:51 pm,64 °F,Clear.,8 mph,43%,"29.87 ""Hg",10 mi
+9:51 pm,63 °F,Clear.,6 mph,47%,"29.89 ""Hg",10 mi
+10:51 pm,61 °F,Clear.,6 mph,52%,"29.90 ""Hg",10 mi
+11:51 pm,60 °F,Clear.,5 mph,52%,"29.92 ""Hg",10 mi
+12:51 am,60 °F,Clear.,8 mph,53%,"29.93 ""Hg",10 mi
+1:51 am,59 °F,Clear.,No wind,58%,"29.93 ""Hg",10 mi
+2:51 am,57 °F,Clear.,No wind,62%,"29.92 ""Hg",10 mi
+3:51 am,59 °F,Clear.,6 mph,58%,"29.95 ""Hg",10 mi
+4:51 am,57 °F,Clear.,5 mph,62%,"29.96 ""Hg",10 mi
+5:51 am,56 °F,Sunny.,No wind,65%,"29.98 ""Hg",10 mi
+6:51 am,58 °F,Sunny.,No wind,62%,"30.00 ""Hg",10 mi
+7:51 am,58 °F,Sunny.,N/A,65%,"30.00 ""Hg",10 mi
+8:51 am,62 °F,Sunny.,6 mph,54%,"30.02 ""Hg",10 mi
+9:51 am,65 °F,Sunny.,6 mph,49%,"30.02 ""Hg",10 mi
+10:51 am,68 °F,Sunny.,8 mph,42%,"30.02 ""Hg",10 mi
+11:51 am,70 °F,Sunny.,9 mph,41%,"30.01 ""Hg",10 mi
+12:51 pm,75 °F,Sunny.,7 mph,34%,"30.00 ""Hg",10 mi
+1:51 pm,75 °F,Sunny.,6 mph,36%,"29.98 ""Hg",10 mi
+2:51 pm,77 °F,Sunny.,9 mph,32%,"29.98 ""Hg",10 mi
+3:51 pm,78 °F,Sunny.,6 mph,30%,"29.96 ""Hg",10 mi
+4:51 pm,77 °F,Sunny.,7 mph,30%,"29.95 ""Hg",10 mi
+5:51 pm,77 °F,Sunny.,5 mph,33%,"29.94 ""Hg",10 mi
+6:51 pm,77 °F,Sunny.,3 mph,32%,"29.94 ""Hg",10 mi
+7:51 pm,75 °F,Scattered clouds.,5 mph,33%,"29.95 ""Hg",10 mi
+8:51 pm,73 °F,Clear.,No wind,37%,"29.96 ""Hg",10 mi
+9:51 pm,69 °F,Clear.,3 mph,41%,"29.98 ""Hg",10 mi
+10:51 pm,70 °F,Clear.,No wind,41%,"29.98 ""Hg",10 mi
+11:51 pm,70 °F,Clear.,3 mph,42%,"29.99 ""Hg",10 mi
+12:51 am,69 °F,Clear.,5 mph,44%,"29.98 ""Hg",10 mi
+1:51 am,68 °F,Clear.,7 mph,47%,"29.98 ""Hg",10 mi
+2:51 am,67 °F,Clear.,6 mph,49%,"29.98 ""Hg",10 mi
+3:51 am,66 °F,Clear.,5 mph,52%,"29.99 ""Hg",10 mi
+4:51 am,65 °F,Clear.,7 mph,59%,"30.00 ""Hg",10 mi
+5:51 am,65 °F,Sunny.,5 mph,59%,"30.01 ""Hg",10 mi
+6:51 am,66 °F,Sunny.,6 mph,61%,"30.01 ""Hg",10 mi
+7:51 am,68 °F,Sunny.,5 mph,57%,"30.01 ""Hg",10 mi
+8:51 am,70 °F,Sunny.,N/A,55%,"30.02 ""Hg",10 mi
+9:51 am,73 °F,Sunny.,3 mph,51%,"30.01 ""Hg",10 mi
+10:51 am,78 °F,Passing clouds.,N/A,48%,"29.99 ""Hg",10 mi
+11:51 am,83 °F,Sunny.,6 mph,44%,"29.97 ""Hg",10 mi
+12:51 pm,86 °F,Sunny.,7 mph,42%,"29.95 ""Hg",10 mi
+1:51 pm,88 °F,Sunny.,6 mph,42%,"29.93 ""Hg",10 mi
+2:51 pm,88 °F,Sunny.,7 mph,40%,"29.91 ""Hg",10 mi
+3:51 pm,89 °F,Sunny.,6 mph,39%,"29.89 ""Hg",10 mi
+4:51 pm,90 °F,Sunny.,7 mph,37%,"29.89 ""Hg",10 mi
+5:51 pm,89 °F,Sunny.,6 mph,35%,"29.88 ""Hg",10 mi
+6:51 pm,87 °F,Sunny.,3 mph,40%,"29.89 ""Hg",10 mi
+7:51 pm,86 °F,Sunny.,N/A,40%,"29.90 ""Hg",10 mi
+8:51 pm,84 °F,Clear.,6 mph,48%,"29.91 ""Hg",10 mi
+9:51 pm,83 °F,Clear.,5 mph,50%,"29.93 ""Hg",10 mi
+10:51 pm,82 °F,Clear.,6 mph,53%,"29.93 ""Hg",10 mi
+11:51 pm,80 °F,Clear.,7 mph,56%,"29.93 ""Hg",10 mi
+12:51 am,80 °F,Clear.,5 mph,56%,"29.92 ""Hg",10 mi
+1:51 am,79 °F,Clear.,5 mph,60%,"29.91 ""Hg",10 mi
+2:51 am,78 °F,Clear.,N/A,62%,"29.90 ""Hg",10 mi
+3:51 am,76 °F,Clear.,5 mph,67%,"29.91 ""Hg",10 mi
+4:51 am,76 °F,Clear.,5 mph,67%,"29.92 ""Hg",10 mi
+5:51 am,75 °F,Sunny.,5 mph,69%,"29.93 ""Hg",10 mi
+6:51 am,75 °F,Sunny.,8 mph,69%,"29.94 ""Hg",10 mi
+7:51 am,76 °F,Sunny.,8 mph,67%,"29.96 ""Hg",10 mi
+8:51 am,79 °F,Sunny.,3 mph,62%,"29.95 ""Hg",10 mi
+9:51 am,81 °F,Sunny.,5 mph,58%,"29.94 ""Hg",10 mi
+10:51 am,86 °F,Sunny.,5 mph,46%,"29.92 ""Hg",10 mi
+11:51 am,89 °F,Sunny.,N/A,41%,"29.91 ""Hg",10 mi
+12:51 pm,92 °F,Sunny.,3 mph,35%,"29.89 ""Hg",10 mi
+1:51 pm,92 °F,Sunny.,5 mph,36%,"29.87 ""Hg",10 mi
+2:51 pm,89 °F,Broken clouds.,5 mph,38%,"29.86 ""Hg",10 mi
+3:51 pm,91 °F,Broken clouds.,7 mph,33%,"29.84 ""Hg",10 mi
+4:51 pm,90 °F,Scattered clouds.,N/A,37%,"29.84 ""Hg",10 mi
+5:51 pm,89 °F,Passing clouds.,6 mph,38%,"29.83 ""Hg",10 mi
+6:51 pm,87 °F,Sunny.,N/A,45%,"29.82 ""Hg",10 mi
+7:51 pm,87 °F,Sunny.,6 mph,43%,"29.83 ""Hg",10 mi
+8:51 pm,84 °F,Clear.,6 mph,51%,"29.83 ""Hg",10 mi
+9:51 pm,83 °F,Clear.,9 mph,53%,"29.85 ""Hg",10 mi
+10:51 pm,82 °F,Clear.,6 mph,55%,"29.85 ""Hg",10 mi
+11:51 pm,81 °F,Clear.,5 mph,56%,"29.85 ""Hg",10 mi
+12:51 am,81 °F,Clear.,6 mph,56%,"29.86 ""Hg",10 mi
+1:51 am,79 °F,Clear.,N/A,62%,"29.85 ""Hg",10 mi
+2:51 am,79 °F,Clear.,6 mph,62%,"29.85 ""Hg",10 mi
+3:51 am,78 °F,Clear.,6 mph,64%,"29.86 ""Hg",10 mi
+4:51 am,76 °F,Clear.,8 mph,72%,"29.86 ""Hg",10 mi
+5:51 am,75 °F,Sunny.,5 mph,74%,"29.87 ""Hg",10 mi
+6:51 am,76 °F,Sunny.,8 mph,72%,"29.88 ""Hg",10 mi
+7:51 am,77 °F,Sunny.,No wind,69%,"29.89 ""Hg",10 mi
+8:51 am,79 °F,Sunny.,6 mph,65%,"29.90 ""Hg",10 mi
+9:51 am,82 °F,Sunny.,6 mph,55%,"29.88 ""Hg",10 mi
+10:51 am,85 °F,Sunny.,N/A,48%,"29.88 ""Hg",10 mi
+11:51 am,88 °F,Sunny.,N/A,43%,"29.87 ""Hg",10 mi
+12:51 pm,88 °F,Passing clouds.,5 mph,40%,"29.86 ""Hg",10 mi
+1:51 pm,89 °F,Passing clouds.,3 mph,41%,"29.84 ""Hg",10 mi
+2:51 pm,90 °F,Sunny.,6 mph,38%,"29.83 ""Hg",10 mi
+3:51 pm,89 °F,Sunny.,N/A,38%,"29.83 ""Hg",10 mi
+4:51 pm,88 °F,Scattered clouds.,6 mph,40%,"29.83 ""Hg",10 mi
+5:51 pm,88 °F,Partly sunny.,5 mph,39%,"29.83 ""Hg",10 mi
+6:51 pm,88 °F,Passing clouds.,6 mph,35%,"29.85 ""Hg",10 mi
+7:51 pm,87 °F,Scattered clouds.,3 mph,39%,"29.86 ""Hg",10 mi
+8:51 pm,80 °F,Clear.,7 mph,47%,"29.93 ""Hg",10 mi
+9:51 pm,77 °F,Clear.,6 mph,50%,"29.97 ""Hg",10 mi
+10:51 pm,73 °F,Clear.,12 mph,48%,"30.01 ""Hg",10 mi
+11:51 pm,68 °F,Clear.,13 mph,53%,"30.04 ""Hg",10 mi
+12:51 am,66 °F,Passing clouds.,10 mph,59%,"30.05 ""Hg",10 mi
+1:51 am,64 °F,Passing clouds.,9 mph,61%,"30.08 ""Hg",10 mi
+2:51 am,62 °F,Passing clouds.,9 mph,62%,"30.11 ""Hg",10 mi
+3:51 am,61 °F,Clear.,6 mph,58%,"30.11 ""Hg",10 mi
+4:51 am,61 °F,Overcast.,6 mph,60%,"30.12 ""Hg",10 mi
+5:51 am,62 °F,Partly sunny.,8 mph,44%,"30.18 ""Hg",10 mi
+6:51 am,56 °F,Light rain. More clouds than sun.,5 mph,75%,"30.20 ""Hg",10 mi
+7:51 am,59 °F,Partly sunny.,13 mph,49%,"30.22 ""Hg",10 mi
+8:51 am,60 °F,Overcast.,7 mph,56%,"30.25 ""Hg",10 mi
+9:51 am,62 °F,Overcast.,8 mph,46%,"30.28 ""Hg",10 mi
+10:51 am,60 °F,More clouds than sun.,9 mph,52%,"30.28 ""Hg",10 mi
+11:51 am,61 °F,Overcast.,8 mph,50%,"30.29 ""Hg",10 mi
+12:51 pm,60 °F,Mostly cloudy.,3 mph,53%,"30.29 ""Hg",10 mi
+1:51 pm,61 °F,Overcast.,No wind,50%,"30.29 ""Hg",10 mi
+2:51 pm,63 °F,More clouds than sun.,No wind,47%,"30.29 ""Hg",10 mi
+3:51 pm,64 °F,Scattered clouds.,No wind,45%,"30.29 ""Hg",10 mi
+4:51 pm,63 °F,Sunny.,No wind,56%,"30.29 ""Hg",10 mi
+5:51 pm,61 °F,Sunny.,6 mph,54%,"30.29 ""Hg",10 mi
+6:51 pm,60 °F,Sunny.,No wind,56%,"30.29 ""Hg",10 mi
+7:51 pm,58 °F,Sunny.,No wind,58%,"30.30 ""Hg",10 mi
+8:51 pm,57 °F,Clear.,No wind,55%,"30.30 ""Hg",10 mi
+9:51 pm,57 °F,Clear.,No wind,55%,"30.32 ""Hg",10 mi
+10:51 pm,56 °F,Clear.,No wind,62%,"30.33 ""Hg",10 mi
+11:51 pm,56 °F,Clear.,No wind,62%,"30.33 ""Hg",10 mi
+12:51 am,55 °F,Clear.,No wind,64%,"30.34 ""Hg",10 mi
+1:51 am,55 °F,Clear.,3 mph,64%,"30.32 ""Hg",10 mi
+2:51 am,54 °F,Clear.,No wind,67%,"30.32 ""Hg",10 mi
+3:51 am,54 °F,Clear.,No wind,67%,"30.33 ""Hg",10 mi
+4:51 am,54 °F,Clear.,3 mph,67%,"30.33 ""Hg",10 mi
+5:51 am,53 °F,Sunny.,No wind,74%,"30.35 ""Hg",10 mi
+6:51 am,55 °F,Sunny.,No wind,64%,"30.36 ""Hg",10 mi
+7:51 am,57 °F,Sunny.,No wind,58%,"30.35 ""Hg",10 mi
+8:51 am,60 °F,Sunny.,3 mph,49%,"30.37 ""Hg",10 mi
+9:51 am,63 °F,Sunny.,3 mph,35%,"30.37 ""Hg",10 mi
+10:51 am,65 °F,Sunny.,No wind,31%,"30.38 ""Hg",10 mi
+11:51 am,66 °F,Sunny.,8 mph,31%,"30.37 ""Hg",10 mi
+12:51 pm,67 °F,Sunny.,6 mph,30%,"30.35 ""Hg",10 mi
+1:51 pm,67 °F,Sunny.,N/A,27%,"30.34 ""Hg",10 mi
+2:51 pm,65 °F,Sunny.,9 mph,29%,"30.33 ""Hg",10 mi
+3:51 pm,64 °F,Sunny.,10 mph,33%,"30.31 ""Hg",10 mi
+4:51 pm,63 °F,Sunny.,5 mph,34%,"30.29 ""Hg",10 mi
+5:51 pm,62 °F,Sunny.,6 mph,38%,"30.29 ""Hg",10 mi
+6:51 pm,60 °F,Sunny.,3 mph,42%,"30.29 ""Hg",10 mi
+7:51 pm,58 °F,Scattered clouds.,7 mph,51%,"30.28 ""Hg",10 mi
+8:51 pm,58 °F,Overcast.,8 mph,51%,"30.27 ""Hg",10 mi
+9:51 pm,57 °F,Overcast.,8 mph,53%,"30.27 ""Hg",10 mi
+10:51 pm,58 °F,Overcast.,3 mph,56%,"30.27 ""Hg",10 mi
+11:51 pm,57 °F,Mostly cloudy.,No wind,60%,"30.25 ""Hg",10 mi
+12:51 am,57 °F,Overcast.,N/A,62%,"30.23 ""Hg",10 mi
+1:51 am,55 °F,Overcast.,6 mph,77%,"30.21 ""Hg",10 mi
+2:51 am,56 °F,Overcast.,5 mph,72%,"30.20 ""Hg",10 mi
+3:51 am,53 °F,Rain. Fog.,No wind,93%,"30.19 ""Hg",4 mi
+4:51 am,53 °F,Overcast.,No wind,96%,"30.17 ""Hg",10 mi
+5:51 am,54 °F,Overcast.,5 mph,93%,"30.17 ""Hg",10 mi
+6:51 am,54 °F,Overcast.,6 mph,93%,"30.16 ""Hg",10 mi
+7:06 am,54 °F,Overcast.,6 mph,93%,"30.19 ""Hg",10 mi
+7:51 am,54 °F,Overcast.,No wind,93%,"30.16 ""Hg",10 mi
+8:51 am,55 °F,Mostly cloudy.,5 mph,90%,"30.16 ""Hg",9 mi
+9:18 am,55 °F,Overcast.,6 mph,90%,"30.18 ""Hg",8 mi
+9:51 am,55 °F,Light rain. Fog.,5 mph,93%,"30.14 ""Hg",3 mi
+10:02 am,55 °F,Fog.,5 mph,93%,"30.16 ""Hg",4 mi
+10:51 am,55 °F,Light rain. Fog.,6 mph,96%,"30.12 ""Hg",4 mi
+11:51 am,56 °F,Light rain. Fog.,3 mph,97%,"30.09 ""Hg",2 mi
+12:22 pm,56 °F,Light rain. Fog.,3 mph,97%,"30.11 ""Hg",3 mi
+12:51 pm,57 °F,Low clouds.,3 mph,96%,"30.08 ""Hg",7 mi
+2:07 pm,58 °F,Rain. Fog.,No wind,100%,"30.07 ""Hg",2 mi
+2:22 pm,59 °F,Light rain. Fog.,No wind,96%,"30.06 ""Hg",4 mi
+2:58 pm,59 °F,Light rain. Fog.,6 mph,96%,"30.04 ""Hg",2 mi
+3:09 pm,59 °F,Rain. Fog.,5 mph,100%,"30.04 ""Hg",1 mi
+3:51 pm,59 °F,Light rain. Fog.,No wind,96%,"30.00 ""Hg",2 mi
+4:07 pm,59 °F,Light rain. Fog.,No wind,100%,"30.02 ""Hg",2 mi
+4:17 pm,59 °F,Light rain. Fog.,No wind,100%,"30.02 ""Hg",2 mi
+4:51 pm,59 °F,Light rain. Fog.,N/A,100%,"29.98 ""Hg",2 mi
+5:18 pm,59 °F,Light rain. Fog.,N/A,100%,"30.00 ""Hg",3 mi
+5:51 pm,60 °F,Light rain. Fog.,No wind,96%,"29.97 ""Hg",4 mi
+6:15 pm,60 °F,Fog.,5 mph,96%,"29.99 ""Hg",3 mi
+6:51 pm,60 °F,Fog.,No wind,100%,"29.96 ""Hg",4 mi
+7:22 pm,61 °F,Fog.,No wind,97%,"29.99 ""Hg",3 mi
+7:50 pm,61 °F,Fog.,No wind,97%,"29.97 ""Hg",2 mi
+8:51 pm,60 °F,Fog.,3 mph,100%,"29.96 ""Hg",3 mi
+9:20 pm,60 °F,Fog.,5 mph,100%,"29.99 ""Hg",3 mi
+9:51 pm,60 °F,Fog.,No wind,100%,"29.96 ""Hg",3 mi
+9:59 pm,60 °F,Fog.,3 mph,100%,"30.00 ""Hg",2 mi
+10:36 pm,60 °F,Fog.,3 mph,96%,"29.99 ""Hg",3 mi
+11:07 pm,60 °F,Fog.,6 mph,96%,"29.98 ""Hg",5 mi
+11:51 pm,60 °F,Fog.,No wind,96%,"29.95 ""Hg",5 mi
+12:51 am,60 °F,Fog.,6 mph,93%,"29.95 ""Hg",6 mi
+1:20 am,60 °F,Fog.,5 mph,96%,"29.98 ""Hg",5 mi
+1:51 am,59 °F,Overcast.,3 mph,93%,"29.95 ""Hg",8 mi
+2:51 am,59 °F,Overcast.,5 mph,93%,"29.93 ""Hg",9 mi
+3:21 am,58 °F,Passing clouds.,5 mph,97%,"29.95 ""Hg",9 mi
+3:51 am,58 °F,Clear.,No wind,93%,"29.93 ""Hg",8 mi
+4:10 am,59 °F,Passing clouds.,5 mph,93%,"29.95 ""Hg",10 mi
+4:51 am,59 °F,Mostly cloudy.,7 mph,93%,"29.93 ""Hg",9 mi
+5:20 am,58 °F,Passing clouds.,6 mph,90%,"29.96 ""Hg",10 mi
+5:51 am,57 °F,Sunny.,No wind,93%,"29.94 ""Hg",9 mi
+6:51 am,58 °F,Sunny.,7 mph,87%,"29.96 ""Hg",10 mi
+7:51 am,59 °F,Sunny.,7 mph,75%,"29.96 ""Hg",10 mi
+8:51 am,61 °F,Sunny.,7 mph,62%,"29.96 ""Hg",10 mi
+9:51 am,62 °F,Sunny.,5 mph,62%,"29.95 ""Hg",10 mi
+10:51 am,63 °F,Sunny.,3 mph,63%,"29.96 ""Hg",10 mi
+11:51 am,65 °F,Sunny.,No wind,56%,"29.93 ""Hg",10 mi
+12:51 pm,65 °F,Sunny.,7 mph,54%,"29.93 ""Hg",10 mi
+1:51 pm,66 °F,Sunny.,3 mph,56%,"29.91 ""Hg",10 mi
+2:51 pm,68 °F,Sunny.,No wind,47%,"29.88 ""Hg",10 mi
+3:51 pm,68 °F,Sunny.,No wind,47%,"29.87 ""Hg",10 mi
+4:51 pm,68 °F,Sunny.,No wind,45%,"29.85 ""Hg",10 mi
+5:51 pm,68 °F,Sunny.,No wind,45%,"29.83 ""Hg",10 mi
+6:51 pm,67 °F,Sunny.,No wind,49%,"29.83 ""Hg",10 mi
+7:51 pm,65 °F,Sunny.,No wind,54%,"29.83 ""Hg",10 mi
+8:51 pm,64 °F,Clear.,No wind,56%,"29.82 ""Hg",10 mi
+9:51 pm,63 °F,Clear.,No wind,58%,"29.83 ""Hg",10 mi
+10:51 pm,62 °F,Clear.,No wind,60%,"29.82 ""Hg",10 mi
+11:51 pm,62 °F,Clear.,No wind,65%,"29.78 ""Hg",10 mi
+12:51 am,60 °F,Clear.,No wind,69%,"29.76 ""Hg",10 mi
+1:51 am,60 °F,Passing clouds.,3 mph,65%,"29.74 ""Hg",10 mi
+2:51 am,60 °F,Clear.,No wind,72%,"29.75 ""Hg",10 mi
+3:51 am,60 °F,Passing clouds.,5 mph,67%,"29.74 ""Hg",10 mi
+4:51 am,59 °F,Light rain. Overcast.,3 mph,72%,"29.72 ""Hg",10 mi
+5:51 am,56 °F,Overcast.,3 mph,93%,"29.73 ""Hg",8 mi
+6:51 am,57 °F,Light rain. Overcast.,3 mph,93%,"29.73 ""Hg",8 mi
+7:51 am,58 °F,Overcast.,3 mph,90%,"29.74 ""Hg",9 mi
+8:51 am,59 °F,Overcast.,5 mph,87%,"29.75 ""Hg",10 mi
+9:51 am,61 °F,Overcast.,6 mph,75%,"29.75 ""Hg",10 mi
+10:51 am,63 °F,Overcast.,3 mph,70%,"29.77 ""Hg",10 mi
+11:51 am,67 °F,Partly sunny.,10 mph,61%,"29.75 ""Hg",10 mi
+12:51 pm,66 °F,Overcast.,12 mph,59%,"29.76 ""Hg",10 mi
+1:51 pm,67 °F,Broken clouds.,7 mph,55%,"29.75 ""Hg",10 mi
+2:51 pm,67 °F,Overcast.,10 mph,49%,"29.75 ""Hg",10 mi
+3:51 pm,67 °F,Overcast.,6 mph,51%,"29.76 ""Hg",10 mi
+4:51 pm,67 °F,Overcast.,3 mph,53%,"29.78 ""Hg",10 mi
+5:51 pm,66 °F,More clouds than sun.,5 mph,59%,"29.77 ""Hg",10 mi
+6:51 pm,64 °F,Scattered clouds.,No wind,68%,"29.77 ""Hg",10 mi
+7:51 pm,62 °F,Sunny.,3 mph,67%,"29.79 ""Hg",10 mi
+8:51 pm,61 °F,Clear.,6 mph,67%,"29.81 ""Hg",10 mi
+9:29 pm,61 °F,Passing clouds.,6 mph,67%,"29.83 ""Hg",10 mi
+9:51 pm,60 °F,Passing clouds.,5 mph,69%,"29.81 ""Hg",10 mi
+10:51 pm,60 °F,Clear.,6 mph,69%,"29.82 ""Hg",10 mi
+11:51 pm,59 °F,Clear.,3 mph,75%,"29.82 ""Hg",10 mi
+12:51 am,59 °F,Passing clouds.,6 mph,78%,"29.80 ""Hg",10 mi
+1:51 am,59 °F,Overcast.,7 mph,75%,"29.79 ""Hg",10 mi
+2:08 am,59 °F,Mostly cloudy.,6 mph,78%,"29.81 ""Hg",10 mi
+2:51 am,58 °F,Overcast.,6 mph,81%,"29.76 ""Hg",10 mi
+3:13 am,58 °F,Overcast.,9 mph,81%,"29.78 ""Hg",10 mi
+3:51 am,57 °F,Overcast.,7 mph,83%,"29.75 ""Hg",10 mi
+4:51 am,57 °F,Light rain. Overcast.,5 mph,90%,"29.74 ""Hg",10 mi
+5:10 am,56 °F,Low clouds.,5 mph,93%,"29.77 ""Hg",8 mi
+5:51 am,56 °F,Light rain. Mostly cloudy.,9 mph,93%,"29.72 ""Hg",7 mi
+6:51 am,56 °F,Light rain. Fog.,10 mph,97%,"29.70 ""Hg",5 mi
+7:51 am,56 °F,Light rain. Fog.,7 mph,97%,"29.69 ""Hg",4 mi
+8:15 am,56 °F,Light rain. Fog.,10 mph,97%,"29.69 ""Hg",2 mi
+9:02 am,56 °F,Rain. Fog.,8 mph,97%,"29.68 ""Hg",1 mi
+9:20 am,56 °F,Light rain. Fog.,10 mph,97%,"29.68 ""Hg",2 mi
+9:51 am,56 °F,Rain. Fog.,8 mph,100%,"29.63 ""Hg",1 mi
+10:03 am,56 °F,Light rain. Fog.,7 mph,97%,"29.66 ""Hg",3 mi
+10:20 am,56 °F,Light rain. Fog.,9 mph,100%,"29.66 ""Hg",3 mi
+10:51 am,57 °F,Light rain. Fog.,5 mph,96%,"29.64 ""Hg",2 mi
+11:51 am,57 °F,Rain. Fog.,9 mph,96%,"29.61 ""Hg",1 mi
+12:33 pm,57 °F,Light rain. Fog.,10 mph,96%,"29.63 ""Hg",2 mi
+12:47 pm,57 °F,Light rain. Fog.,9 mph,100%,"29.59 ""Hg",3 mi
+1:14 pm,57 °F,Light rain. Fog.,9 mph,96%,"29.63 ""Hg",2 mi
+1:51 pm,57 °F,Fog.,9 mph,96%,"29.58 ""Hg",2 mi
+2:03 pm,57 °F,Light rain. Fog.,13 mph,96%,"29.61 ""Hg",3 mi
+2:19 pm,57 °F,Light rain. Fog.,7 mph,96%,"29.62 ""Hg",2 mi
+2:27 pm,57 °F,Light rain. Fog.,8 mph,100%,"29.61 ""Hg",1 mi
+2:51 pm,57 °F,Light rain. Fog.,9 mph,96%,"29.57 ""Hg",3 mi
+3:13 pm,58 °F,Light rain. Fog.,5 mph,97%,"29.60 ""Hg",2 mi
+3:51 pm,57 °F,Fog.,9 mph,100%,"29.56 ""Hg",2 mi
+4:29 pm,58 °F,Fog.,9 mph,97%,"29.58 ""Hg",3 mi
+4:51 pm,58 °F,Fog.,10 mph,97%,"29.53 ""Hg",4 mi
+5:31 pm,58 °F,Fog.,9 mph,97%,"29.57 ""Hg",6 mi
+5:51 pm,57 °F,Fog.,10 mph,96%,"29.54 ""Hg",2 mi
+6:24 pm,57 °F,Fog.,8 mph,100%,"29.56 ""Hg",2 mi
+6:51 pm,58 °F,Fog.,3 mph,97%,"29.53 ""Hg",1 mi
+7:51 pm,57 °F,Fog.,7 mph,96%,"29.52 ""Hg",2 mi
+8:51 pm,57 °F,Low clouds.,16 mph,96%,"29.49 ""Hg",7 mi
+9:51 pm,57 °F,Low clouds.,10 mph,96%,"29.49 ""Hg",8 mi
+10:51 pm,57 °F,Low clouds.,12 mph,96%,"29.48 ""Hg",7 mi
+11:27 pm,57 °F,Light rain. Fog.,3 mph,96%,"29.52 ""Hg",5 mi
+12:00 am,56 °F,Light rain. Fog.,6 mph,100%,"29.51 ""Hg",4 mi
+12:08 am,56 °F,Mostly cloudy.,7 mph,100%,"29.52 ""Hg",9 mi
+12:51 am,57 °F,Fog.,3 mph,96%,"29.48 ""Hg",6 mi
+1:27 am,57 °F,Overcast.,No wind,100%,"29.50 ""Hg",8 mi
+1:51 am,57 °F,Low clouds.,3 mph,96%,"29.46 ""Hg",9 mi
+2:51 am,57 °F,Light rain. Mostly cloudy.,No wind,96%,"29.46 ""Hg",10 mi
+3:51 am,56 °F,Low clouds.,5 mph,97%,"29.49 ""Hg",10 mi
+4:51 am,56 °F,Light rain. Fog.,No wind,100%,"29.50 ""Hg",2 mi
+5:09 am,56 °F,Light rain. Fog.,5 mph,100%,"29.53 ""Hg",4 mi
+5:51 am,56 °F,Light rain. More clouds than sun.,5 mph,97%,"29.53 ""Hg",9 mi
+6:17 am,56 °F,Light rain. Fog.,3 mph,97%,"29.57 ""Hg",5 mi
+6:35 am,56 °F,Light rain. Mostly cloudy.,No wind,97%,"29.57 ""Hg",9 mi
+6:51 am,56 °F,Cloudy.,No wind,97%,"29.54 ""Hg",10 mi
+7:26 am,56 °F,Mostly cloudy.,No wind,100%,"29.59 ""Hg",10 mi
+7:51 am,57 °F,Mostly cloudy.,3 mph,96%,"29.57 ""Hg",10 mi
+9:00 am,59 °F,Cloudy.,No wind,93%,"29.61 ""Hg",10 mi
+9:14 am,59 °F,Broken clouds.,6 mph,93%,"29.61 ""Hg",10 mi
+9:25 am,60 °F,Partly sunny.,No wind,93%,"29.61 ""Hg",10 mi
+9:51 am,60 °F,Mostly cloudy.,7 mph,90%,"29.59 ""Hg",10 mi
+10:51 am,64 °F,More clouds than sun.,N/A,84%,"29.59 ""Hg",10 mi
+12:51 pm,71 °F,Broken clouds.,12 mph,59%,"29.58 ""Hg",10 mi
+1:51 pm,73 °F,Partly sunny.,8 mph,53%,"29.59 ""Hg",10 mi
+2:51 pm,71 °F,Overcast.,8 mph,53%,"29.61 ""Hg",10 mi
+3:51 pm,71 °F,Overcast.,7 mph,55%,"29.62 ""Hg",10 mi
+4:51 pm,72 °F,More clouds than sun.,N/A,55%,"29.62 ""Hg",10 mi
+5:51 pm,73 °F,Partly sunny.,5 mph,51%,"29.64 ""Hg",10 mi
+6:51 pm,72 °F,Scattered clouds.,N/A,53%,"29.66 ""Hg",10 mi
+7:51 pm,71 °F,Partly sunny.,8 mph,53%,"29.69 ""Hg",10 mi
+8:51 pm,70 °F,Passing clouds.,3 mph,53%,"29.73 ""Hg",10 mi
+9:51 pm,68 °F,Passing clouds.,3 mph,57%,"29.77 ""Hg",10 mi
+10:51 pm,67 °F,Clear.,8 mph,57%,"29.79 ""Hg",10 mi
+11:51 pm,65 °F,Clear.,3 mph,63%,"29.80 ""Hg",10 mi
+12:51 am,64 °F,Clear.,6 mph,68%,"29.81 ""Hg",10 mi
+1:51 am,62 °F,Clear.,3 mph,73%,"29.82 ""Hg",10 mi
+2:51 am,61 °F,Clear.,6 mph,75%,"29.82 ""Hg",10 mi
+3:51 am,61 °F,Clear.,3 mph,78%,"29.83 ""Hg",10 mi
+4:51 am,59 °F,Passing clouds.,5 mph,84%,"29.85 ""Hg",10 mi
+5:51 am,61 °F,Mostly cloudy.,5 mph,78%,"29.86 ""Hg",10 mi
+6:18 am,61 °F,Scattered clouds.,3 mph,78%,"29.89 ""Hg",10 mi
+6:51 am,61 °F,Sunny.,5 mph,81%,"29.87 ""Hg",10 mi
+7:51 am,63 °F,Scattered clouds.,3 mph,75%,"29.87 ""Hg",10 mi
+8:51 am,65 °F,Sunny.,6 mph,68%,"29.87 ""Hg",10 mi
+9:51 am,66 °F,Passing clouds.,No wind,65%,"29.88 ""Hg",10 mi
+10:51 am,68 °F,Partly sunny.,5 mph,61%,"29.87 ""Hg",10 mi
+11:51 am,69 °F,Overcast.,No wind,63%,"29.87 ""Hg",10 mi
+12:51 pm,69 °F,Mostly cloudy.,3 mph,61%,"29.87 ""Hg",10 mi
+1:51 pm,69 °F,Overcast.,5 mph,63%,"29.87 ""Hg",10 mi
+2:51 pm,70 °F,More clouds than sun.,No wind,57%,"29.86 ""Hg",10 mi
+3:51 pm,70 °F,More clouds than sun.,5 mph,57%,"29.86 ""Hg",10 mi
+4:51 pm,71 °F,Overcast.,3 mph,57%,"29.86 ""Hg",10 mi
+5:51 pm,70 °F,Overcast.,No wind,64%,"29.86 ""Hg",10 mi
+6:51 pm,70 °F,Mostly cloudy.,3 mph,64%,"29.87 ""Hg",10 mi
+7:51 pm,69 °F,Partly sunny.,6 mph,66%,"29.88 ""Hg",10 mi
+8:51 pm,65 °F,Passing clouds.,No wind,76%,"29.90 ""Hg",10 mi
+9:51 pm,64 °F,Overcast.,No wind,75%,"29.92 ""Hg",10 mi
+10:51 pm,63 °F,Overcast.,3 mph,78%,"29.92 ""Hg",10 mi
+11:51 pm,63 °F,Overcast.,5 mph,78%,"29.92 ""Hg",10 mi
+12:51 am,60 °F,Clear.,No wind,86%,"29.91 ""Hg",10 mi
+1:51 am,60 °F,Overcast.,No wind,90%,"29.90 ""Hg",10 mi
+2:51 am,60 °F,Overcast.,3 mph,90%,"29.90 ""Hg",9 mi
+3:51 am,59 °F,Clear.,3 mph,93%,"29.88 ""Hg",7 mi
+4:51 am,59 °F,Overcast.,5 mph,93%,"29.90 ""Hg",7 mi
+5:39 am,59 °F,Fog.,3 mph,90%,"29.93 ""Hg",6 mi
+5:51 am,58 °F,Fog.,No wind,97%,"29.90 ""Hg",5 mi
+7:00 am,59 °F,Fog.,5 mph,93%,"29.95 ""Hg",3 mi
+7:51 am,61 °F,Fog.,5 mph,87%,"29.94 ""Hg",4 mi
+8:51 am,63 °F,Low clouds.,6 mph,84%,"29.94 ""Hg",6 mi
+9:18 am,64 °F,Scattered clouds.,No wind,81%,"29.97 ""Hg",7 mi
+9:51 am,65 °F,Passing clouds.,No wind,81%,"29.93 ""Hg",8 mi
+10:51 am,67 °F,Sunny.,5 mph,73%,"29.93 ""Hg",10 mi
+11:51 am,71 °F,Sunny.,N/A,63%,"29.94 ""Hg",10 mi
+12:51 pm,70 °F,Sunny.,5 mph,66%,"29.96 ""Hg",10 mi
+1:51 pm,69 °F,Sunny.,8 mph,63%,"29.96 ""Hg",10 mi
+2:51 pm,69 °F,Sunny.,N/A,61%,"29.93 ""Hg",10 mi
+3:51 pm,68 °F,Sunny.,N/A,61%,"29.92 ""Hg",10 mi
+4:51 pm,67 °F,Sunny.,6 mph,66%,"29.93 ""Hg",10 mi
+5:51 pm,64 °F,Sunny.,N/A,61%,"29.95 ""Hg",10 mi
+6:51 pm,64 °F,Sunny.,13 mph,58%,"29.94 ""Hg",10 mi
+7:51 pm,64 °F,Sunny.,No wind,61%,"29.94 ""Hg",10 mi
+8:51 pm,63 °F,Passing clouds.,5 mph,63%,"29.94 ""Hg",10 mi
+9:51 pm,62 °F,Passing clouds.,5 mph,65%,"29.93 ""Hg",10 mi
+10:51 pm,62 °F,Passing clouds.,5 mph,65%,"29.93 ""Hg",10 mi
+11:51 pm,61 °F,Passing clouds.,6 mph,70%,"29.91 ""Hg",10 mi
+12:51 am,61 °F,Mostly cloudy.,5 mph,70%,"29.90 ""Hg",10 mi
+1:51 am,61 °F,Passing clouds.,5 mph,72%,"29.89 ""Hg",10 mi
+2:51 am,61 °F,Overcast.,7 mph,72%,"29.88 ""Hg",10 mi
+3:51 am,58 °F,Mostly cloudy.,7 mph,87%,"29.87 ""Hg",10 mi
+4:51 am,57 °F,Light rain. Mostly cloudy.,5 mph,93%,"29.87 ""Hg",9 mi
+5:51 am,56 °F,Mostly cloudy.,8 mph,97%,"29.88 ""Hg",10 mi
+6:23 am,57 °F,Light rain. Fog.,No wind,93%,"29.92 ""Hg",5 mi
+6:51 am,56 °F,Overcast.,6 mph,97%,"29.89 ""Hg",9 mi
+7:51 am,57 °F,Overcast.,6 mph,93%,"29.90 ""Hg",10 mi
+8:51 am,57 °F,Light rain. Mostly cloudy.,5 mph,93%,"29.90 ""Hg",9 mi
+9:51 am,57 °F,Light rain. Mostly cloudy.,7 mph,93%,"29.91 ""Hg",9 mi
+10:31 am,57 °F,Light rain. Fog.,No wind,93%,"29.96 ""Hg",5 mi
+10:51 am,57 °F,Light rain. Mostly cloudy.,9 mph,93%,"29.93 ""Hg",9 mi
+11:51 am,57 °F,Light rain. Fog.,3 mph,90%,"29.95 ""Hg",5 mi
+12:51 pm,56 °F,Mostly cloudy.,5 mph,93%,"29.98 ""Hg",8 mi
+1:51 pm,58 °F,Mostly cloudy.,5 mph,87%,"29.98 ""Hg",10 mi
+2:51 pm,57 °F,Mostly cloudy.,5 mph,87%,"30.00 ""Hg",10 mi
+3:51 pm,57 °F,Cloudy.,8 mph,83%,"30.01 ""Hg",10 mi
+4:04 pm,57 °F,Mostly cloudy.,6 mph,87%,"30.04 ""Hg",10 mi
+4:25 pm,57 °F,More clouds than sun.,No wind,87%,"30.05 ""Hg",10 mi
+4:51 pm,57 °F,Overcast.,3 mph,83%,"30.03 ""Hg",10 mi
+5:51 pm,56 °F,Overcast.,7 mph,90%,"30.04 ""Hg",10 mi
+6:51 pm,57 °F,Overcast.,3 mph,87%,"30.06 ""Hg",10 mi
+7:51 pm,57 °F,Overcast.,6 mph,87%,"30.06 ""Hg",10 mi
+8:51 pm,57 °F,Overcast.,No wind,90%,"30.06 ""Hg",10 mi
+9:47 pm,57 °F,Overcast.,7 mph,88%,"30.11 ""Hg",10 mi
+10:51 pm,58 °F,Overcast.,3 mph,81%,"30.09 ""Hg",10 mi
+11:51 pm,57 °F,Overcast.,3 mph,90%,"30.09 ""Hg",10 mi
+12:51 am,57 °F,Overcast.,3 mph,87%,"30.12 ""Hg",10 mi
+1:51 am,56 °F,Overcast.,No wind,90%,"30.12 ""Hg",10 mi
+2:16 am,56 °F,Overcast.,5 mph,87%,"30.16 ""Hg",10 mi
+3:02 am,56 °F,Overcast.,5 mph,84%,"30.15 ""Hg",10 mi
+3:51 am,55 °F,Low clouds.,No wind,90%,"30.12 ""Hg",7 mi
+4:51 am,55 °F,Low clouds.,3 mph,93%,"30.13 ""Hg",10 mi
+5:16 am,56 °F,Low clouds.,No wind,87%,"30.17 ""Hg",10 mi
+5:51 am,55 °F,Low clouds.,3 mph,90%,"30.14 ""Hg",10 mi
+6:51 am,56 °F,Low clouds.,7 mph,90%,"30.15 ""Hg",10 mi
+7:51 am,56 °F,Low clouds.,No wind,90%,"30.16 ""Hg",10 mi
+8:37 am,57 °F,Mostly cloudy.,3 mph,87%,"30.20 ""Hg",10 mi
+8:51 am,57 °F,Mostly cloudy.,3 mph,87%,"30.16 ""Hg",10 mi
+9:51 am,58 °F,Overcast.,5 mph,84%,"30.16 ""Hg",10 mi
+10:51 am,59 °F,Overcast.,5 mph,81%,"30.16 ""Hg",10 mi
+11:51 am,59 °F,Overcast.,No wind,81%,"30.17 ""Hg",10 mi
+12:51 pm,59 °F,Overcast.,5 mph,84%,"30.16 ""Hg",10 mi
+1:51 pm,58 °F,Overcast.,5 mph,84%,"30.14 ""Hg",10 mi
+2:38 pm,57 °F,Rain. Fog.,No wind,93%,"30.16 ""Hg",2 mi
+3:02 pm,56 °F,Overcast.,8 mph,97%,"30.14 ""Hg",10 mi
+3:51 pm,57 °F,Overcast.,No wind,93%,"30.12 ""Hg",10 mi
+4:51 pm,58 °F,Overcast.,9 mph,90%,"30.10 ""Hg",10 mi
+5:51 pm,58 °F,Overcast.,N/A,93%,"30.11 ""Hg",10 mi
+6:51 pm,58 °F,Overcast.,5 mph,87%,"30.11 ""Hg",10 mi
+7:51 pm,58 °F,Overcast.,No wind,90%,"30.11 ""Hg",9 mi
+8:51 pm,58 °F,Low clouds.,3 mph,90%,"30.11 ""Hg",7 mi
+9:51 pm,58 °F,Fog.,5 mph,97%,"30.12 ""Hg",5 mi
+10:29 pm,58 °F,Fog.,N/A,97%,"30.14 ""Hg",3 mi
+10:51 pm,58 °F,Fog.,No wind,97%,"30.11 ""Hg",2 mi
+11:51 pm,58 °F,Fog.,No wind,97%,"30.10 ""Hg",2 mi
+12:03 am,58 °F,Fog.,3 mph,97%,"30.12 ""Hg",2 mi
+12:51 am,58 °F,Fog.,No wind,97%,"30.09 ""Hg",2 mi
+1:51 am,58 °F,Fog.,No wind,100%,"30.06 ""Hg",2 mi
+2:51 am,58 °F,Fog.,No wind,100%,"30.04 ""Hg",2 mi
+3:51 am,58 °F,Fog.,No wind,100%,"30.03 ""Hg",3 mi
+4:28 am,59 °F,Fog.,No wind,96%,"30.06 ""Hg",2 mi
+4:51 am,59 °F,Fog.,5 mph,96%,"30.03 ""Hg",2 mi
+5:51 am,59 °F,Fog.,3 mph,96%,"30.05 ""Hg",1 mi
+6:51 am,58 °F,Fog.,5 mph,100%,"30.05 ""Hg",2 mi
+7:32 am,59 °F,Fog.,3 mph,96%,"30.08 ""Hg",4 mi
+7:51 am,59 °F,Fog.,5 mph,96%,"30.05 ""Hg",5 mi
+8:51 am,60 °F,Fog.,No wind,93%,"30.06 ""Hg",6 mi
+9:51 am,61 °F,Fog.,No wind,93%,"30.05 ""Hg",5 mi
+10:51 am,62 °F,Low clouds.,3 mph,90%,"30.02 ""Hg",7 mi
+11:51 am,66 °F,Sunny.,6 mph,78%,"30.01 ""Hg",10 mi
+12:51 pm,70 °F,Sunny.,No wind,71%,"30.00 ""Hg",10 mi
+1:51 pm,73 °F,Scattered clouds.,No wind,66%,"29.98 ""Hg",10 mi
+2:01 pm,72 °F,Partly sunny.,No wind,71%,"30.01 ""Hg",9 mi
+2:51 pm,73 °F,Scattered clouds.,No wind,69%,"29.97 ""Hg",10 mi
+3:51 pm,73 °F,Sunny.,5 mph,69%,"29.95 ""Hg",10 mi
+4:51 pm,75 °F,Sunny.,5 mph,62%,"29.92 ""Hg",10 mi
+5:51 pm,74 °F,Sunny.,3 mph,62%,"29.92 ""Hg",10 mi
+6:51 pm,73 °F,Sunny.,6 mph,66%,"29.91 ""Hg",10 mi
+7:51 pm,70 °F,Sunny.,5 mph,73%,"29.91 ""Hg",10 mi
+8:51 pm,68 °F,Clear.,No wind,78%,"29.92 ""Hg",10 mi
+9:51 pm,66 °F,Light rain. Partly cloudy.,No wind,90%,"29.94 ""Hg",10 mi
+10:51 pm,65 °F,Passing clouds.,5 mph,91%,"29.93 ""Hg",10 mi
+11:51 pm,65 °F,Passing clouds.,3 mph,91%,"29.95 ""Hg",7 mi

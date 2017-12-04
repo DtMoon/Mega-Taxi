@@ -1,0 +1,10 @@
+{
+"cloud": ["overcast", "passing clouds", "mostly cloudy", "scattered clouds", "more clouds than sun", "low clouds", "cloudy", "partly cloudy", "broken clouds"],
+"clear": ["clear", "sunny", "partly sunny", "quite cool", "cool", "refreshingly cool", "mild", "warm", "pleasantly warm", "hot"],
+"cold": ["chilly", "cold"],
+"light rain": ["rain", "light rain", "light freezing rain", "freezing rain"],
+"heavy rain": ["heavy rain"],
+"fog": ["fog", "ice fog", "haze"],
+"light snow": ["light snow", "snow", "light snow"],
+"heavy snow": ["heavy snow"]
+}

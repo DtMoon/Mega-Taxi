@@ -1,0 +1,15 @@
+
+Request Headers
+Cookie:OX_plg=swf|shk|pm; __gads=ID=29a50c1d4891dc1f:T=1507493778:S=ALNI_MboRJEV8RDUXESr2jL75suPVzYhLw; __qca=P0-264758524-1507495984650; TIMEANDDATE_SESSION=T_1507493776%3AC_32%3Ad7_32%3Ad3_32%3A; OX_sd=3
+Host:www.timeanddate.com
+Referer:https://www.timeanddate.com/weather/@8479493/historic?month=2&year=2017
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+
+
+Query String Parameters
+n:@8479493
+mode:historic
+hd:20170203
+month:2
+year:2017
+json:1
