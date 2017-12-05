@@ -1,0 +1,6 @@
+framework module Pods_MegaTaxi {
+  umbrella header "Pods-MegaTaxi-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,695 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		01F5683A836A06624ED12CC27CF3C0D8 /* ytcpsocket.c in Sources */ = {isa = PBXBuildFile; fileRef = 069677B568229B577D2FA9A5B6C75D29 /* ytcpsocket.c */; };
+		11738C7687CB1A4A9C86829A0E46E1C7 /* TCPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5301F69B0865F699E69E022A54BC5B52 /* TCPClient.swift */; };
+		135F3247B0BACAF47EB9ADD4DB0A17E8 /* SwiftSocket-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 656917B38B59FBF2C043FEDC5E88DF2F /* SwiftSocket-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3ABA392C592320FF25ACFF41C5F72A79 /* yudpsocket.c in Sources */ = {isa = PBXBuildFile; fileRef = C1301A579B6437E067AC0ED0CC24FB18 /* yudpsocket.c */; };
+		4441C9DF22D35766F61C8CD6E7BC89C4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		4E600CA7C628F416A28884E9230500D6 /* SwiftSocket-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E5712C338B824B3572AC6F1FBA5443D5 /* SwiftSocket-dummy.m */; };
+		51818A1D6BC8C72AE41F1CA5C8B6D860 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		5B73AC889A9CFA3D673BEB162F042038 /* Socket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DA2A0626383013A9C2F6986D848603 /* Socket.swift */; };
+		6D707EC4436DFFB29A1461CC5B16675C /* Pods-MegaTaxi-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F4F0C9FDE4B072C595D9011376C5F27 /* Pods-MegaTaxi-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8B9DAEBBA8AE442BF6687C36B18409AE /* UDPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D960A6AD774F14D55C709F404426234B /* UDPClient.swift */; };
+		9FC8232FCB31F173A288D58B8698342C /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED993F81E9A8E00A103845B3CA2FAEB0 /* Result.swift */; };
+		B9A7F41EEB23934C868966347F2788B5 /* Pods-MegaTaxi-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C85FDC9780AF6E622EE24B1CB96FCCB5 /* Pods-MegaTaxi-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		4A32D5386EA8610656979BF781201DA6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1C2BD7133DC8B6F40C140D6976B96AD9;
+			remoteInfo = SwiftSocket;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04DA2A0626383013A9C2F6986D848603 /* Socket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Socket.swift; path = Sources/Socket.swift; sourceTree = "<group>"; };
+		069677B568229B577D2FA9A5B6C75D29 /* ytcpsocket.c */ = {isa = PBXFileReference; includeInIndex = 1; name = ytcpsocket.c; path = Sources/ytcpsocket.c; sourceTree = "<group>"; };
+		10A04B6987CD3084FD4F1A7B39D693DC /* GoogleMapsBase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsBase.framework; path = Base/Frameworks/GoogleMapsBase.framework; sourceTree = "<group>"; };
+		2C7AE3683AA45489A41F39BE53B3627B /* Pods-MegaTaxi-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MegaTaxi-resources.sh"; sourceTree = "<group>"; };
+		2F4F0C9FDE4B072C595D9011376C5F27 /* Pods-MegaTaxi-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MegaTaxi-umbrella.h"; sourceTree = "<group>"; };
+		394977260D514ABAD1B8D78FED087BDF /* Pods-MegaTaxi-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MegaTaxi-acknowledgements.markdown"; sourceTree = "<group>"; };
+		4366F642E307995B1816A350B2C019EE /* SwiftSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftSocket.framework; path = SwiftSocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		454E4A89BE88B1B0A00E3554CEF9C87C /* Pods-MegaTaxi-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MegaTaxi-frameworks.sh"; sourceTree = "<group>"; };
+		459194D9F2232300ECE1A0A6A3754053 /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMaps.framework; path = Maps/Frameworks/GoogleMaps.framework; sourceTree = "<group>"; };
+		5301F69B0865F699E69E022A54BC5B52 /* TCPClient.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TCPClient.swift; path = Sources/TCPClient.swift; sourceTree = "<group>"; };
+		61B4159CE194E1F3841BB31CCB6C7186 /* GooglePlaces.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GooglePlaces.bundle; path = Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle; sourceTree = "<group>"; };
+		656917B38B59FBF2C043FEDC5E88DF2F /* SwiftSocket-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftSocket-umbrella.h"; sourceTree = "<group>"; };
+		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		7C3B81AD6817A67BF2882192DCC1FDE8 /* GooglePlaces.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GooglePlaces.framework; path = Frameworks/GooglePlaces.framework; sourceTree = "<group>"; };
+		7FB0AF10812B1058C4C25DFE6033279E /* GooglePlacePicker.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GooglePlacePicker.bundle; path = Frameworks/GooglePlacePicker.framework/Resources/GooglePlacePicker.bundle; sourceTree = "<group>"; };
+		8D17A55F2286C68BE7DBA54B1CAE2798 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8FB651C8885D04855EE3A2237D9EF1ED /* SwiftSocket-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftSocket-prefix.pch"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9F695F01B2C733475A503EDAB85375E0 /* GoogleMaps.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
+		AFB92974E835BFDA9178F3383C110599 /* SwiftSocket.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftSocket.xcconfig; sourceTree = "<group>"; };
+		B45A41477A4DFF8B062DC0A082C91AAD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1301A579B6437E067AC0ED0CC24FB18 /* yudpsocket.c */ = {isa = PBXFileReference; includeInIndex = 1; name = yudpsocket.c; path = Sources/yudpsocket.c; sourceTree = "<group>"; };
+		C708BA4A0152C72A8FD464C31DEA4A88 /* GoogleMapsCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsCore.framework; path = Maps/Frameworks/GoogleMapsCore.framework; sourceTree = "<group>"; };
+		C85FDC9780AF6E622EE24B1CB96FCCB5 /* Pods-MegaTaxi-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MegaTaxi-dummy.m"; sourceTree = "<group>"; };
+		CD5EA5E7922F64FAE57A35AB3BEE2542 /* SwiftSocket.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = SwiftSocket.modulemap; sourceTree = "<group>"; };
+		D3B1F1B487068C73BAB6E0C850950D94 /* Pods-MegaTaxi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MegaTaxi.debug.xcconfig"; sourceTree = "<group>"; };
+		D63A4ECADD3E61D145D88C404B6BAB74 /* GooglePlacePicker.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GooglePlacePicker.framework; path = Frameworks/GooglePlacePicker.framework; sourceTree = "<group>"; };
+		D960A6AD774F14D55C709F404426234B /* UDPClient.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UDPClient.swift; path = Sources/UDPClient.swift; sourceTree = "<group>"; };
+		E5712C338B824B3572AC6F1FBA5443D5 /* SwiftSocket-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftSocket-dummy.m"; sourceTree = "<group>"; };
+		E97806E5354C82F9591741D7F0CDF8BC /* Pods-MegaTaxi-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MegaTaxi-acknowledgements.plist"; sourceTree = "<group>"; };
+		EAA8B304F025A956E8C8B428D780B91D /* Pods-MegaTaxi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MegaTaxi.release.xcconfig"; sourceTree = "<group>"; };
+		ED993F81E9A8E00A103845B3CA2FAEB0 /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Sources/Result.swift; sourceTree = "<group>"; };
+		FC6D9B6CE51A31F7D68F9B0A6180D404 /* Pods_MegaTaxi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MegaTaxi.framework; path = "Pods-MegaTaxi.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE977B809E541E98E910DDF5DDA4285A /* Pods-MegaTaxi.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MegaTaxi.modulemap"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B6E0BEFA6575CDC548F72FB3E0617D13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51818A1D6BC8C72AE41F1CA5C8B6D860 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1738EC3108E476B8310652918701F58 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4441C9DF22D35766F61C8CD6E7BC89C4 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0FBA4DAE3A494DB918B898E74AE30CE9 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				A612060DEF683C5B6C98E09EDDB14296 /* Pods-MegaTaxi */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		1B8D89771C8096776C1F1E08B366CE3F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D63A4ECADD3E61D145D88C404B6BAB74 /* GooglePlacePicker.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		260D031FDEACE4035BE71AF30D03FFE3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				459194D9F2232300ECE1A0A6A3754053 /* GoogleMaps.framework */,
+				C708BA4A0152C72A8FD464C31DEA4A88 /* GoogleMapsCore.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5B6F618BAAA172DCD670403076A510DA /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				D47612FE0657939A6351815CADC91441 /* Frameworks */,
+			);
+			name = Base;
+			sourceTree = "<group>";
+		};
+		60EC3C249572DE95FB0EA8DB33287D3E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FC6D9B6CE51A31F7D68F9B0A6180D404 /* Pods_MegaTaxi.framework */,
+				4366F642E307995B1816A350B2C019EE /* SwiftSocket.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7780AAC33D77501631C5AE8CFE187E2E /* GooglePlacePicker */ = {
+			isa = PBXGroup;
+			children = (
+				1B8D89771C8096776C1F1E08B366CE3F /* Frameworks */,
+				8D19CEA8E01B8C22483477E5168ACFAC /* Resources */,
+			);
+			name = GooglePlacePicker;
+			path = GooglePlacePicker;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				E53784FCDAB8FD54CA4317E1E845B633 /* Pods */,
+				60EC3C249572DE95FB0EA8DB33287D3E /* Products */,
+				0FBA4DAE3A494DB918B898E74AE30CE9 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8D19CEA8E01B8C22483477E5168ACFAC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7FB0AF10812B1058C4C25DFE6033279E /* GooglePlacePicker.bundle */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		9398093D13F94B5A8CF97C2936906F0C /* GoogleMaps */ = {
+			isa = PBXGroup;
+			children = (
+				5B6F618BAAA172DCD670403076A510DA /* Base */,
+				9D8BBD666A2BC6435F08745BE3889999 /* Maps */,
+			);
+			name = GoogleMaps;
+			path = GoogleMaps;
+			sourceTree = "<group>";
+		};
+		9AC59F510D7907BBE80FC9180CBDD565 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9F695F01B2C733475A503EDAB85375E0 /* GoogleMaps.bundle */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		9D8BBD666A2BC6435F08745BE3889999 /* Maps */ = {
+			isa = PBXGroup;
+			children = (
+				260D031FDEACE4035BE71AF30D03FFE3 /* Frameworks */,
+				9AC59F510D7907BBE80FC9180CBDD565 /* Resources */,
+			);
+			name = Maps;
+			sourceTree = "<group>";
+		};
+		9FAF6A0C6553353F65D16ED60198588B /* SwiftSocket */ = {
+			isa = PBXGroup;
+			children = (
+				ED993F81E9A8E00A103845B3CA2FAEB0 /* Result.swift */,
+				04DA2A0626383013A9C2F6986D848603 /* Socket.swift */,
+				5301F69B0865F699E69E022A54BC5B52 /* TCPClient.swift */,
+				D960A6AD774F14D55C709F404426234B /* UDPClient.swift */,
+				069677B568229B577D2FA9A5B6C75D29 /* ytcpsocket.c */,
+				C1301A579B6437E067AC0ED0CC24FB18 /* yudpsocket.c */,
+				E3CAD24EBA3CA1C26D2B1CFC5B335473 /* Support Files */,
+			);
+			name = SwiftSocket;
+			path = SwiftSocket;
+			sourceTree = "<group>";
+		};
+		A54D0509DCEB1B84763B319136D4611D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7C3B81AD6817A67BF2882192DCC1FDE8 /* GooglePlaces.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A612060DEF683C5B6C98E09EDDB14296 /* Pods-MegaTaxi */ = {
+			isa = PBXGroup;
+			children = (
+				B45A41477A4DFF8B062DC0A082C91AAD /* Info.plist */,
+				FE977B809E541E98E910DDF5DDA4285A /* Pods-MegaTaxi.modulemap */,
+				394977260D514ABAD1B8D78FED087BDF /* Pods-MegaTaxi-acknowledgements.markdown */,
+				E97806E5354C82F9591741D7F0CDF8BC /* Pods-MegaTaxi-acknowledgements.plist */,
+				C85FDC9780AF6E622EE24B1CB96FCCB5 /* Pods-MegaTaxi-dummy.m */,
+				454E4A89BE88B1B0A00E3554CEF9C87C /* Pods-MegaTaxi-frameworks.sh */,
+				2C7AE3683AA45489A41F39BE53B3627B /* Pods-MegaTaxi-resources.sh */,
+				2F4F0C9FDE4B072C595D9011376C5F27 /* Pods-MegaTaxi-umbrella.h */,
+				D3B1F1B487068C73BAB6E0C850950D94 /* Pods-MegaTaxi.debug.xcconfig */,
+				EAA8B304F025A956E8C8B428D780B91D /* Pods-MegaTaxi.release.xcconfig */,
+			);
+			name = "Pods-MegaTaxi";
+			path = "Target Support Files/Pods-MegaTaxi";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		D47612FE0657939A6351815CADC91441 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				10A04B6987CD3084FD4F1A7B39D693DC /* GoogleMapsBase.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E3CAD24EBA3CA1C26D2B1CFC5B335473 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8D17A55F2286C68BE7DBA54B1CAE2798 /* Info.plist */,
+				CD5EA5E7922F64FAE57A35AB3BEE2542 /* SwiftSocket.modulemap */,
+				AFB92974E835BFDA9178F3383C110599 /* SwiftSocket.xcconfig */,
+				E5712C338B824B3572AC6F1FBA5443D5 /* SwiftSocket-dummy.m */,
+				8FB651C8885D04855EE3A2237D9EF1ED /* SwiftSocket-prefix.pch */,
+				656917B38B59FBF2C043FEDC5E88DF2F /* SwiftSocket-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/SwiftSocket";
+			sourceTree = "<group>";
+		};
+		E53784FCDAB8FD54CA4317E1E845B633 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9398093D13F94B5A8CF97C2936906F0C /* GoogleMaps */,
+				7780AAC33D77501631C5AE8CFE187E2E /* GooglePlacePicker */,
+				F80F01D556491A8DFC55B9699E7BAAB7 /* GooglePlaces */,
+				9FAF6A0C6553353F65D16ED60198588B /* SwiftSocket */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		F80F01D556491A8DFC55B9699E7BAAB7 /* GooglePlaces */ = {
+			isa = PBXGroup;
+			children = (
+				A54D0509DCEB1B84763B319136D4611D /* Frameworks */,
+				FE82AACCF6FBC4FAA209325EA8C88014 /* Resources */,
+			);
+			name = GooglePlaces;
+			path = GooglePlaces;
+			sourceTree = "<group>";
+		};
+		FE82AACCF6FBC4FAA209325EA8C88014 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				61B4159CE194E1F3841BB31CCB6C7186 /* GooglePlaces.bundle */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		071596E096FC36E057ECA3925AE08EB2 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				135F3247B0BACAF47EB9ADD4DB0A17E8 /* SwiftSocket-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0ABE8859E7872D76F4BD3BA3E47FD76C /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6D707EC4436DFFB29A1461CC5B16675C /* Pods-MegaTaxi-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		145C14F4E2A7A69316017D254BAE39D9 /* Pods-MegaTaxi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75807B7F546015DA06BA8F2CAD57CB3C /* Build configuration list for PBXNativeTarget "Pods-MegaTaxi" */;
+			buildPhases = (
+				31C42B111F70AD13871E197050073D85 /* Sources */,
+				B6E0BEFA6575CDC548F72FB3E0617D13 /* Frameworks */,
+				0ABE8859E7872D76F4BD3BA3E47FD76C /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93C23C7D9C605B625EA90D56BF9BD836 /* PBXTargetDependency */,
+			);
+			name = "Pods-MegaTaxi";
+			productName = "Pods-MegaTaxi";
+			productReference = FC6D9B6CE51A31F7D68F9B0A6180D404 /* Pods_MegaTaxi.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		1C2BD7133DC8B6F40C140D6976B96AD9 /* SwiftSocket */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6D4255EA000F28AFAB729061800151A5 /* Build configuration list for PBXNativeTarget "SwiftSocket" */;
+			buildPhases = (
+				CA3511FF563E388C310F3B16D4F64C3C /* Sources */,
+				F1738EC3108E476B8310652918701F58 /* Frameworks */,
+				071596E096FC36E057ECA3925AE08EB2 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SwiftSocket;
+			productName = SwiftSocket;
+			productReference = 4366F642E307995B1816A350B2C019EE /* SwiftSocket.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 60EC3C249572DE95FB0EA8DB33287D3E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				145C14F4E2A7A69316017D254BAE39D9 /* Pods-MegaTaxi */,
+				1C2BD7133DC8B6F40C140D6976B96AD9 /* SwiftSocket */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		31C42B111F70AD13871E197050073D85 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9A7F41EEB23934C868966347F2788B5 /* Pods-MegaTaxi-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CA3511FF563E388C310F3B16D4F64C3C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9FC8232FCB31F173A288D58B8698342C /* Result.swift in Sources */,
+				5B73AC889A9CFA3D673BEB162F042038 /* Socket.swift in Sources */,
+				4E600CA7C628F416A28884E9230500D6 /* SwiftSocket-dummy.m in Sources */,
+				11738C7687CB1A4A9C86829A0E46E1C7 /* TCPClient.swift in Sources */,
+				8B9DAEBBA8AE442BF6687C36B18409AE /* UDPClient.swift in Sources */,
+				01F5683A836A06624ED12CC27CF3C0D8 /* ytcpsocket.c in Sources */,
+				3ABA392C592320FF25ACFF41C5F72A79 /* yudpsocket.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		93C23C7D9C605B625EA90D56BF9BD836 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SwiftSocket;
+			target = 1C2BD7133DC8B6F40C140D6976B96AD9 /* SwiftSocket */;
+			targetProxy = 4A32D5386EA8610656979BF781201DA6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1D23278938ADF334174C5BF2A4B6B1B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		4257F27536A85E40C1DB60346982CCAB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D3B1F1B487068C73BAB6E0C850950D94 /* Pods-MegaTaxi.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MegaTaxi/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MegaTaxi/Pods-MegaTaxi.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_MegaTaxi;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		6F7F5FAB48686A0286AE13D2E2DC6FE0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EAA8B304F025A956E8C8B428D780B91D /* Pods-MegaTaxi.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MegaTaxi/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MegaTaxi/Pods-MegaTaxi.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_MegaTaxi;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		929E23882901937F261097C7E8DD8C1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AFB92974E835BFDA9178F3383C110599 /* SwiftSocket.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftSocket/SwiftSocket-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftSocket/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SwiftSocket/SwiftSocket.modulemap";
+				PRODUCT_NAME = SwiftSocket;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		995C3A53DEAA96B47E756185345E180D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		C905838D493B9790B3D1E2255E171425 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AFB92974E835BFDA9178F3383C110599 /* SwiftSocket.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftSocket/SwiftSocket-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftSocket/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SwiftSocket/SwiftSocket.modulemap";
+				PRODUCT_NAME = SwiftSocket;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				995C3A53DEAA96B47E756185345E180D /* Debug */,
+				1D23278938ADF334174C5BF2A4B6B1B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6D4255EA000F28AFAB729061800151A5 /* Build configuration list for PBXNativeTarget "SwiftSocket" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C905838D493B9790B3D1E2255E171425 /* Debug */,
+				929E23882901937F261097C7E8DD8C1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75807B7F546015DA06BA8F2CAD57CB3C /* Build configuration list for PBXNativeTarget "Pods-MegaTaxi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4257F27536A85E40C1DB60346982CCAB /* Debug */,
+				6F7F5FAB48686A0286AE13D2E2DC6FE0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

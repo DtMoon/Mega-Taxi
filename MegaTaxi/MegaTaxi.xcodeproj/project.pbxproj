@@ -1,0 +1,453 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		510B9084471EC74F32095ED6 /* Pods_MegaTaxi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE5C9B5D1E27D3484E2FF712 /* Pods_MegaTaxi.framework */; };
+		A61AE59A1FD3110B001318E5 /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = A61AE5991FD3110B001318E5 /* pin.png */; };
+		A6493DEF1FD252400025F1D1 /* search_bar_1 in Resources */ = {isa = PBXBuildFile; fileRef = A6493DEE1FD252400025F1D1 /* search_bar_1 */; };
+		A6493DF11FD257250025F1D1 /* search_bar_2.png in Resources */ = {isa = PBXBuildFile; fileRef = A6493DF01FD257250025F1D1 /* search_bar_2.png */; };
+		A6493DF31FD25A370025F1D1 /* search_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = A6493DF21FD25A370025F1D1 /* search_bar.png */; };
+		A6493DF51FD266880025F1D1 /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = A6493DF41FD266880025F1D1 /* search.png */; };
+		A6B213C61FC0E6AD001DF0CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6B213C51FC0E6AD001DF0CA /* AppDelegate.swift */; };
+		A6B213CB1FC0E6AD001DF0CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6B213C91FC0E6AD001DF0CA /* Main.storyboard */; };
+		A6B213CD1FC0E6AD001DF0CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6B213CC1FC0E6AD001DF0CA /* Assets.xcassets */; };
+		A6B213D01FC0E6AD001DF0CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6B213CE1FC0E6AD001DF0CA /* LaunchScreen.storyboard */; };
+		A6B213D91FC0E6D2001DF0CA /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = A6B213D81FC0E6D2001DF0CA /* Podfile */; };
+		A6D07E801FC482D600B88E0D /* MegaTaxiTripCostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D07E7F1FC482D600B88E0D /* MegaTaxiTripCostViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		15CFD8BDDD6D1945562B1D84 /* Pods-MegaTaxi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MegaTaxi.release.xcconfig"; path = "Pods/Target Support Files/Pods-MegaTaxi/Pods-MegaTaxi.release.xcconfig"; sourceTree = "<group>"; };
+		94F683BF43F87E232EE707F1 /* Pods-MegaTaxi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MegaTaxi.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MegaTaxi/Pods-MegaTaxi.debug.xcconfig"; sourceTree = "<group>"; };
+		A61AE5991FD3110B001318E5 /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin.png; sourceTree = "<group>"; };
+		A6493DEB1FD1B9E40025F1D1 /* SwiftSocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SwiftSocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6493DEE1FD252400025F1D1 /* search_bar_1 */ = {isa = PBXFileReference; lastKnownFileType = file; name = search_bar_1; path = "MegaTaxi/Supporting Files/search_bar_1"; sourceTree = SOURCE_ROOT; };
+		A6493DF01FD257250025F1D1 /* search_bar_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search_bar_2.png; sourceTree = "<group>"; };
+		A6493DF21FD25A370025F1D1 /* search_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search_bar.png; sourceTree = "<group>"; };
+		A6493DF41FD266880025F1D1 /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search.png; sourceTree = "<group>"; };
+		A6B213C21FC0E6AD001DF0CA /* MegaTaxi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MegaTaxi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6B213C51FC0E6AD001DF0CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A6B213CA1FC0E6AD001DF0CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A6B213CC1FC0E6AD001DF0CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A6B213CF1FC0E6AD001DF0CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A6B213D11FC0E6AD001DF0CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6B213D81FC0E6D2001DF0CA /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A6D07E7F1FC482D600B88E0D /* MegaTaxiTripCostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MegaTaxiTripCostViewController.swift; sourceTree = "<group>"; };
+		EE5C9B5D1E27D3484E2FF712 /* Pods_MegaTaxi.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MegaTaxi.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A6B213BF1FC0E6AD001DF0CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				510B9084471EC74F32095ED6 /* Pods_MegaTaxi.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		76AF22197B6CC12D067DDFBA /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				94F683BF43F87E232EE707F1 /* Pods-MegaTaxi.debug.xcconfig */,
+				15CFD8BDDD6D1945562B1D84 /* Pods-MegaTaxi.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A6B213B91FC0E6AD001DF0CA = {
+			isa = PBXGroup;
+			children = (
+				A6493DEB1FD1B9E40025F1D1 /* SwiftSocket.framework */,
+				A6B213D81FC0E6D2001DF0CA /* Podfile */,
+				A6B213C41FC0E6AD001DF0CA /* MegaTaxi */,
+				A6B213C31FC0E6AD001DF0CA /* Products */,
+				76AF22197B6CC12D067DDFBA /* Pods */,
+				FC61A2B233C3CAA15B08CC73 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		A6B213C31FC0E6AD001DF0CA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A6B213C21FC0E6AD001DF0CA /* MegaTaxi.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A6B213C41FC0E6AD001DF0CA /* MegaTaxi */ = {
+			isa = PBXGroup;
+			children = (
+				A6D07E7F1FC482D600B88E0D /* MegaTaxiTripCostViewController.swift */,
+				A6B213C51FC0E6AD001DF0CA /* AppDelegate.swift */,
+				A6B213C91FC0E6AD001DF0CA /* Main.storyboard */,
+				A6B213D71FC0E6B7001DF0CA /* Supporting Files */,
+				A6B213D11FC0E6AD001DF0CA /* Info.plist */,
+			);
+			path = MegaTaxi;
+			sourceTree = "<group>";
+		};
+		A6B213D71FC0E6B7001DF0CA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A61AE5991FD3110B001318E5 /* pin.png */,
+				A6493DF41FD266880025F1D1 /* search.png */,
+				A6493DF21FD25A370025F1D1 /* search_bar.png */,
+				A6493DF01FD257250025F1D1 /* search_bar_2.png */,
+				A6493DEE1FD252400025F1D1 /* search_bar_1 */,
+				A6B213CC1FC0E6AD001DF0CA /* Assets.xcassets */,
+				A6B213CE1FC0E6AD001DF0CA /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FC61A2B233C3CAA15B08CC73 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EE5C9B5D1E27D3484E2FF712 /* Pods_MegaTaxi.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A6B213C11FC0E6AD001DF0CA /* MegaTaxi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A6B213D41FC0E6AD001DF0CA /* Build configuration list for PBXNativeTarget "MegaTaxi" */;
+			buildPhases = (
+				F383B2830F57DBABF72F269C /* [CP] Check Pods Manifest.lock */,
+				A6B213BE1FC0E6AD001DF0CA /* Sources */,
+				A6B213BF1FC0E6AD001DF0CA /* Frameworks */,
+				A6B213C01FC0E6AD001DF0CA /* Resources */,
+				437093FED21F8465065A723D /* [CP] Embed Pods Frameworks */,
+				7C6FC07F95169376975746A7 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MegaTaxi;
+			productName = MegaTaxi;
+			productReference = A6B213C21FC0E6AD001DF0CA /* MegaTaxi.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A6B213BA1FC0E6AD001DF0CA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0910;
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = MegaTaxiCompany;
+				TargetAttributes = {
+					A6B213C11FC0E6AD001DF0CA = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A6B213BD1FC0E6AD001DF0CA /* Build configuration list for PBXProject "MegaTaxi" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A6B213B91FC0E6AD001DF0CA;
+			productRefGroup = A6B213C31FC0E6AD001DF0CA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A6B213C11FC0E6AD001DF0CA /* MegaTaxi */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A6B213C01FC0E6AD001DF0CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6493DEF1FD252400025F1D1 /* search_bar_1 in Resources */,
+				A6493DF31FD25A370025F1D1 /* search_bar.png in Resources */,
+				A6B213D01FC0E6AD001DF0CA /* LaunchScreen.storyboard in Resources */,
+				A6493DF51FD266880025F1D1 /* search.png in Resources */,
+				A6493DF11FD257250025F1D1 /* search_bar_2.png in Resources */,
+				A6B213CD1FC0E6AD001DF0CA /* Assets.xcassets in Resources */,
+				A61AE59A1FD3110B001318E5 /* pin.png in Resources */,
+				A6B213D91FC0E6D2001DF0CA /* Podfile in Resources */,
+				A6B213CB1FC0E6AD001DF0CA /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		437093FED21F8465065A723D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MegaTaxi/Pods-MegaTaxi-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/SwiftSocket/SwiftSocket.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftSocket.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MegaTaxi/Pods-MegaTaxi-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7C6FC07F95169376975746A7 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MegaTaxi/Pods-MegaTaxi-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Resources/GooglePlacePicker.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MegaTaxi/Pods-MegaTaxi-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F383B2830F57DBABF72F269C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MegaTaxi-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A6B213BE1FC0E6AD001DF0CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A6D07E801FC482D600B88E0D /* MegaTaxiTripCostViewController.swift in Sources */,
+				A6B213C61FC0E6AD001DF0CA /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A6B213C91FC0E6AD001DF0CA /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A6B213CA1FC0E6AD001DF0CA /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A6B213CE1FC0E6AD001DF0CA /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A6B213CF1FC0E6AD001DF0CA /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A6B213D21FC0E6AD001DF0CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A6B213D31FC0E6AD001DF0CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A6B213D51FC0E6AD001DF0CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 94F683BF43F87E232EE707F1 /* Pods-MegaTaxi.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H79YJ2SLKC;
+				INFOPLIST_FILE = MegaTaxi/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = edu.columbia.hl3091.MegaTaxi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A6B213D61FC0E6AD001DF0CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 15CFD8BDDD6D1945562B1D84 /* Pods-MegaTaxi.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = H79YJ2SLKC;
+				INFOPLIST_FILE = MegaTaxi/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = edu.columbia.hl3091.MegaTaxi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A6B213BD1FC0E6AD001DF0CA /* Build configuration list for PBXProject "MegaTaxi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6B213D21FC0E6AD001DF0CA /* Debug */,
+				A6B213D31FC0E6AD001DF0CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A6B213D41FC0E6AD001DF0CA /* Build configuration list for PBXNativeTarget "MegaTaxi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6B213D51FC0E6AD001DF0CA /* Debug */,
+				A6B213D61FC0E6AD001DF0CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A6B213BA1FC0E6AD001DF0CA /* Project object */;
+}
