@@ -12,4 +12,4 @@ Run:
     pod install
 
 ![](https://github.com/DtMoon/Mega-Taxi/blob/master/MegaTaxi/MegaTaxi/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/MegaTaxiIcon-1.png)
-<img width="562" height="1000" src="https://github.com/DtMoon/Mega-Taxi/blob/master/MegaTaxi/screenshot.png"/>
+<img width="375" height="667" src="https://github.com/DtMoon/Mega-Taxi/blob/master/MegaTaxi/screenshot.png"/>
