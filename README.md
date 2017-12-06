@@ -11,7 +11,7 @@
 
 ## Total Pickup Number Prediction using Time Series
 
-<img src=""/>
+<img src="https://github.com/DtMoon/Mega-Taxi/blob/master/Time%20Series/ts_vs_real.png"/>
 
 ## Trip Cost Prediction using RandomForestRegressor
 
