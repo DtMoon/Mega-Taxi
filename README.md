@@ -7,9 +7,10 @@
 	
 ## iOS App Installation
 
+<img width="90" height="90" src="https://github.com/DtMoon/Mega-Taxi/blob/master/MegaTaxi/MegaTaxi/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/MegaTaxiIcon-1.png"/>
+
 Run:
 
     pod install
 
-![](https://github.com/DtMoon/Mega-Taxi/blob/master/MegaTaxi/MegaTaxi/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/MegaTaxiIcon-1.png)
 <div align=center><img width="375" height="667" src="https://github.com/DtMoon/Mega-Taxi/blob/master/MegaTaxi/screenshot.png"/>
